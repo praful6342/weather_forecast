@@ -70,6 +70,10 @@ def weather_alerts():
     alert_data = get_weather_alerts()  # Function to fetch weather alerts from the API
     return render_template("weather_alerts.html", alert_data=alert_data)
 
+@app.route("/algorithm")
+def show_algorithm():
+    return render_template("algorithm.html")
+
 @app.errorhandler(404)
 def not_found_error(error):
     return render_template('404.html'), 404
@@ -170,12 +174,6 @@ def get_weather_news(api_key):
     except Exception as e:
         logging.error(f"Unexpected error retrieving news data: {e}")
         return None
-
-
-
-
-
-
-
+    
 if __name__ == "__main__":
     app.run(debug=True)

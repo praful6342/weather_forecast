@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Weather Prediction Algorithm</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <div class="container">
+    <h1>Weather Prediction Algorithm</h1>
+
+    <p>The weather prediction algorithm used in this application is an Enhanced K-Strange Points Clustering Algorithm. This algorithm is an improvement on the original K-Means clustering algorithm and aims to find a set of 'K' points within a dataset (the strange points) that are maximally distant from one another to aid in clustering.</p>
+
+    <h2>How it works:</h2>
+
+    <ol>
+      <li><b>Initialization:</b> Finds the point in the dataset that is farthest from all other points. This becomes the first strange point.</li>
+      <li><b>Strange Point Selection:</b> Iteratively locates the next strange point by selecting the point in the dataset farthest from the previously identified strange point. This repeats until 'K' strange points are found.</li>
+      <li><b>Clustering:</b> The remaining data points are assigned to the cluster formed around the nearest strange point.</li>
+    </ol>
+
+    <p>The rationale behind this algorithm is that these strange points, being far apart, should be more representative of potential cluster centers, leading to better clustering results.</p>
+
+    <p>The Enhanced K-Strange Points Clustering Algorithm is implemented using the scikit-learn library in Python. The algorithm takes the following steps:</p>
+
+    <ol>
+      <li>Find the point in the dataset that is farthest from all other points.</li>
+      <li>Iteratively find the next strange point by selecting the point in the dataset farthest from the previously identified strange point.</li>
+      <li>Repeat step 2 until 'K' strange points are found.</li>
+      <li>Assign the remaining data points to the cluster formed around the nearest strange point.</li>
+    </ol>
+
+    <p>Once the Enhanced K-Strange Points Clustering Algorithm has converged, we can use the cluster labels to predict the weather for a given set of input features. To do this, we simply assign the input features to the cluster with the closest strange point and then use the cluster label to predict the weather.</p>
+
+    <p>The Enhanced K-Strange Points Clustering Algorithm is a simple and effective way to predict the weather. However, it is important to note that the accuracy of the predictions will depend on the quality of the data used to train the algorithm.</p>
+  </div>
+</body>
+</html>

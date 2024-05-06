@@ -85,8 +85,33 @@ function fetchWeatherData() {
         console.error('Error fetching weather data:', error);
         // Handle errors (e.g., display an error message to the user)
       });
+
+    // Added line to fetch algorithm information
+    fetch('/algorithm') // Replace with your actual Flask route for showing the algorithm page
+      .then(response => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        // Check if the response is JSON before parsing
+        if (response.headers.get('Content-Type').includes('application/json')) {
+          return response.json();
+        } else {
+          // Handle non-JSON response (optional: display an error message)
+          console.error('Unexpected response format. Expected JSON data.');
+          // You can throw an error here to stop further processing
+          // throw new Error('Unexpected response format');
+        }
+      })
+      .then(data => {
+        // Update algorithm information on the page (if needed)
+        // ...
+      })
+      .catch(error => {
+        console.error('Error fetching algorithm information:', error);
+        // Handle errors (e.g., display an error message to the user)
+      });
 }
 
 function capitalizeFirstLetter(string) {
-    return string.charAt(0).toUpperCase() + string.slice(1);
+  return string.charAt(0).toUpperCase() + string.slice(1);
 }
