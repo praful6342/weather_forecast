@@ -147,10 +147,10 @@ def parse_weather_data(data):
     }
 
 def get_weather_news(api_key):
-    url = f"https://newsapi.org/v2/top-headlines?country=us&category=weather&apiKey={api_key}"
+    url = f"https://newsapi.org/v2/top-headlines?country=in&apiKey={api_key}"
     params = {
         'apiKey': api_key,
-        'q': 'weather',  # Search query for weather-related news
+        'q': 'news',  # Search query for general news
         'sortBy': 'publishedAt',  # Sort by publication date
         'language': 'en',  # Specify language (e.g., English)
         'pageSize': 10  # Number of articles to retrieve
@@ -160,7 +160,6 @@ def get_weather_news(api_key):
         response.raise_for_status()
         news_data = response.json()
         if news_data.get('status') == 'ok':
-            print(news_data)
             return news_data
         else:
             logging.error(f"Error retrieving news data: {news_data.get('message', 'Unknown error')}")
@@ -171,6 +170,12 @@ def get_weather_news(api_key):
     except Exception as e:
         logging.error(f"Unexpected error retrieving news data: {e}")
         return None
+
+
+
+
+
+
 
 if __name__ == "__main__":
     app.run(debug=True)
