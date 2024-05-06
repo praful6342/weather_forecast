@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Predict Weather</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <header class="header">
+    <div class="container">
+      <nav class="navbar">
+        <h1 class="navbar-brand">Predict Weather</h1>
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('show_news') }}">News</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('predict_weather') }}">Predict (current)</a></li>
+          <li class="nav-item"><button class="nav-link" id="dark-mode-toggle">Toggle Dark Mode</button></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <div class="container">
+    <main>
+      <div class="input-form">
+        <h3>Predict Weather</h3>
+        <form id="weather-form" method="POST">
+          <div class="form-group">
+            <label for="temperature" class="input-label">Temperature (°C)</label>
+            <input type="number" class="form-control" id="temperature" name="temperature" placeholder="Enter temperature" required>
+          </div>
+          <div class="form-group">
+            <label for="humidity" class="input-label">Humidity (%)</label>
+            <input type="number" class="form-control" id="humidity" name="humidity" placeholder="Enter humidity" required>
+          </div>
+          <div class="form-group">
+            <label for="pressure" class="input-label">Pressure (hPa)</label>
+            <input type="number" class="form-control" id="pressure" name="pressure" placeholder="Enter pressure" required>
+          </div>
+          <div class="form-group">
+            <label for="windspeed" class="input-label">Wind Speed (m/s)</label>
+            <input type="number" class="form-control" id="windspeed" name="windspeed" placeholder="Enter wind speed" required>
+          </div>
+          <button type="submit" class="btn btn-primary btn-animate">Predict Weather</button>
+        </form>
+        <p class="predicted-weather">Predicted Weather: <span class="predicted-weather-value">{{ predicted_weather.capitalize() }}</span></p>
+      </div>
+    </main>
+  </div>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,1313 @@
+2024-05-03 12:44:12,332 WARNING:  * Debugger is active!
+2024-05-03 12:44:12,332 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 12:45:11,248 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 12:45:15,400 WARNING:  * Debugger is active!
+2024-05-03 12:45:15,402 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 12:50:42,450 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 12:50:42,450 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 12:50:42,450 INFO:  * Restarting with stat
+2024-05-03 12:50:44,820 WARNING:  * Debugger is active!
+2024-05-03 12:50:44,820 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 12:51:17,544 ERROR: Error retrieving weather data: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=fae6ed2e957847bb9307157e0469df9f
+2024-05-03 12:51:18,641 ERROR: Error retrieving weather alerts: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=fae6ed2e957847bb9307157e0469df9f
+2024-05-03 12:51:20,293 INFO: 127.0.0.1 - - [03/May/2024 12:51:20] "POST / HTTP/1.1" 200 -
+2024-05-03 12:51:20,841 INFO: 127.0.0.1 - - [03/May/2024 12:51:20] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 12:59:11,279 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 12:59:13,270 INFO:  * Restarting with stat
+2024-05-03 12:59:18,083 WARNING:  * Debugger is active!
+2024-05-03 12:59:18,089 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 12:59:38,759 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 12:59:38,759 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 12:59:38,759 INFO:  * Restarting with stat
+2024-05-03 12:59:41,138 WARNING:  * Debugger is active!
+2024-05-03 12:59:41,138 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 12:59:57,746 ERROR: Error retrieving weather data: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=fae6ed2e957847bb9307157e0469df9f
+2024-05-03 12:59:58,893 ERROR: Error retrieving weather alerts: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=fae6ed2e957847bb9307157e0469df9f
+2024-05-03 13:00:00,242 INFO: 127.0.0.1 - - [03/May/2024 13:00:00] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-05-03 13:00:00,810 INFO: 127.0.0.1 - - [03/May/2024 13:00:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-03 13:00:00,810 INFO: 127.0.0.1 - - [03/May/2024 13:00:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-03 13:00:00,970 INFO: 127.0.0.1 - - [03/May/2024 13:00:00] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 13:00:01,096 INFO: 127.0.0.1 - - [03/May/2024 13:00:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 13:02:44,739 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 13:02:45,163 INFO:  * Restarting with stat
+2024-05-03 13:02:54,978 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:02:54,978 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:02:54,978 INFO:  * Restarting with stat
+2024-05-03 13:02:57,331 WARNING:  * Debugger is active!
+2024-05-03 13:02:57,331 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:03:19,224 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:03:19,224 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:03:19,224 INFO:  * Restarting with stat
+2024-05-03 13:03:21,530 WARNING:  * Debugger is active!
+2024-05-03 13:03:21,530 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:08:09,102 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:08:09,102 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:08:09,102 INFO:  * Restarting with stat
+2024-05-03 13:08:11,594 WARNING:  * Debugger is active!
+2024-05-03 13:08:11,594 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:31:14,691 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 13:31:17,111 INFO:  * Restarting with stat
+2024-05-03 13:31:30,321 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:31:30,321 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:31:30,321 INFO:  * Restarting with stat
+2024-05-03 13:31:32,896 WARNING:  * Debugger is active!
+2024-05-03 13:31:32,896 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:31:56,195 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 13:31:56,560 INFO:  * Restarting with stat
+2024-05-03 13:32:04,617 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:32:04,617 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:32:37,403 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:32:37,403 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:32:37,403 INFO:  * Restarting with stat
+2024-05-03 13:32:39,903 WARNING:  * Debugger is active!
+2024-05-03 13:32:39,903 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:33:52,766 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 13:33:52,766 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 13:33:52,769 INFO:  * Restarting with stat
+2024-05-03 13:33:56,706 WARNING:  * Debugger is active!
+2024-05-03 13:33:56,709 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:36:38,969 ERROR: Error retrieving weather data: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=fae6ed2e957847bb9307157e0469df9f
+2024-05-03 13:36:40,185 INFO: 127.0.0.1 - - [03/May/2024 13:36:40] "GET / HTTP/1.1" 200 -
+2024-05-03 13:36:40,473 INFO: 127.0.0.1 - - [03/May/2024 13:36:40] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 13:36:47,320 INFO: 127.0.0.1 - - [03/May/2024 13:36:47] "GET /news HTTP/1.1" 200 -
+2024-05-03 13:36:47,409 INFO: 127.0.0.1 - - [03/May/2024 13:36:47] "[33mGET /... HTTP/1.1[0m" 404 -
+2024-05-03 13:39:21,173 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 13:39:23,102 INFO:  * Restarting with stat
+2024-05-03 13:39:42,273 WARNING:  * Debugger is active!
+2024-05-03 13:39:42,288 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:39:44,814 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 13:39:45,223 INFO:  * Restarting with stat
+2024-05-03 13:39:48,073 WARNING:  * Debugger is active!
+2024-05-03 13:39:48,073 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 13:40:04,995 ERROR: Error retrieving weather data: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=545cf9247039c6d223ef47c8b2417059
+2024-05-03 13:40:06,071 INFO: 127.0.0.1 - - [03/May/2024 13:40:06] "GET / HTTP/1.1" 200 -
+2024-05-03 13:40:06,235 INFO: 127.0.0.1 - - [03/May/2024 13:40:06] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 15:36:29,897 INFO: 127.0.0.1 - - [03/May/2024 15:36:29] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 15:36:57,692 ERROR: Error retrieving weather data: 401 Client Error: Unauthorized for url: https://api.openweathermap.org/data/2.5/onecall?lat=12.9719&lon=77.5937&exclude=current,minutely,hourly,daily&appid=545cf9247039c6d223ef47c8b2417059
+2024-05-03 15:37:00,111 INFO: 127.0.0.1 - - [03/May/2024 15:37:00] "GET / HTTP/1.1" 200 -
+2024-05-03 15:37:00,334 INFO: 127.0.0.1 - - [03/May/2024 15:37:00] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 15:37:53,869 INFO: 127.0.0.1 - - [03/May/2024 15:37:53] "GET /news HTTP/1.1" 200 -
+2024-05-03 15:37:54,026 INFO: 127.0.0.1 - - [03/May/2024 15:37:54] "[33mGET /... HTTP/1.1[0m" 404 -
+2024-05-03 16:04:19,631 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 16:04:19,631 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 16:04:19,647 INFO:  * Restarting with stat
+2024-05-03 16:04:28,036 WARNING:  * Debugger is active!
+2024-05-03 16:04:28,043 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 16:04:33,526 INFO: 127.0.0.1 - - [03/May/2024 16:04:33] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-03 16:04:33,934 INFO: 127.0.0.1 - - [03/May/2024 16:04:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-03 16:04:34,060 INFO: 127.0.0.1 - - [03/May/2024 16:04:34] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-03 16:04:34,280 INFO: 127.0.0.1 - - [03/May/2024 16:04:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 16:04:34,342 INFO: 127.0.0.1 - - [03/May/2024 16:04:34] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 16:05:00,272 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 16:05:00,988 INFO:  * Restarting with stat
+2024-05-03 16:05:06,859 WARNING:  * Debugger is active!
+2024-05-03 16:05:06,859 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 16:05:11,445 ERROR: Error retrieving weather data: ('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))
+2024-05-03 16:05:11,461 INFO: 127.0.0.1 - - [03/May/2024 16:05:11] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-03 16:05:11,727 INFO: 127.0.0.1 - - [03/May/2024 16:05:11] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-03 16:05:11,743 INFO: 127.0.0.1 - - [03/May/2024 16:05:11] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-03 16:05:11,806 INFO: 127.0.0.1 - - [03/May/2024 16:05:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 16:05:11,884 INFO: 127.0.0.1 - - [03/May/2024 16:05:11] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 16:06:32,413 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 16:06:33,201 INFO:  * Restarting with stat
+2024-05-03 16:06:39,685 WARNING:  * Debugger is active!
+2024-05-03 16:06:39,685 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 16:06:48,756 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 16:06:48,756 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 16:06:48,765 INFO:  * Restarting with stat
+2024-05-03 16:06:56,890 WARNING:  * Debugger is active!
+2024-05-03 16:06:56,906 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 16:07:03,444 INFO: 127.0.0.1 - - [03/May/2024 16:07:03] "GET / HTTP/1.1" 200 -
+2024-05-03 16:07:03,915 INFO: 127.0.0.1 - - [03/May/2024 16:07:03] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 16:07:30,869 INFO: 127.0.0.1 - - [03/May/2024 16:07:30] "GET /news HTTP/1.1" 200 -
+2024-05-03 16:07:31,042 INFO: 127.0.0.1 - - [03/May/2024 16:07:31] "[33mGET /... HTTP/1.1[0m" 404 -
+2024-05-03 21:58:56,963 INFO: 127.0.0.1 - - [03/May/2024 21:58:56] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 21:59:07,980 INFO: 127.0.0.1 - - [03/May/2024 21:59:07] "GET / HTTP/1.1" 200 -
+2024-05-03 21:59:08,238 INFO: 127.0.0.1 - - [03/May/2024 21:59:08] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:13:29,947 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 22:13:32,408 INFO:  * Restarting with stat
+2024-05-03 22:13:42,863 WARNING:  * Debugger is active!
+2024-05-03 22:13:42,879 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 22:16:19,451 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 22:16:19,451 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 22:16:19,467 INFO:  * Restarting with stat
+2024-05-03 22:16:24,778 WARNING:  * Debugger is active!
+2024-05-03 22:16:24,778 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 22:16:30,726 INFO: 127.0.0.1 - - [03/May/2024 22:16:30] "GET / HTTP/1.1" 200 -
+2024-05-03 22:16:31,260 INFO: 127.0.0.1 - - [03/May/2024 22:16:31] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:16:31,260 INFO: 127.0.0.1 - - [03/May/2024 22:16:31] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-03 22:17:58,504 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 22:17:58,504 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 22:17:58,509 INFO:  * Restarting with stat
+2024-05-03 22:18:06,616 WARNING:  * Debugger is active!
+2024-05-03 22:18:06,616 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 22:18:11,656 INFO: 127.0.0.1 - - [03/May/2024 22:18:11] "GET / HTTP/1.1" 200 -
+2024-05-03 22:18:12,237 INFO: 127.0.0.1 - - [03/May/2024 22:18:12] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:18:12,503 INFO: 127.0.0.1 - - [03/May/2024 22:18:12] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-03 22:18:12,597 INFO: 127.0.0.1 - - [03/May/2024 22:18:12] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:22:25,841 INFO: 127.0.0.1 - - [03/May/2024 22:22:25] "GET / HTTP/1.1" 200 -
+2024-05-03 22:22:26,815 INFO: 127.0.0.1 - - [03/May/2024 22:22:26] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:22:26,925 INFO: 127.0.0.1 - - [03/May/2024 22:22:26] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:22:27,098 INFO: 127.0.0.1 - - [03/May/2024 22:22:27] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-03 22:22:27,207 INFO: 127.0.0.1 - - [03/May/2024 22:22:27] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:24:49,689 INFO: 127.0.0.1 - - [03/May/2024 22:24:49] "GET / HTTP/1.1" 200 -
+2024-05-03 22:24:49,830 INFO: 127.0.0.1 - - [03/May/2024 22:24:49] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:24:49,830 INFO: 127.0.0.1 - - [03/May/2024 22:24:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:24:49,893 INFO: 127.0.0.1 - - [03/May/2024 22:24:49] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:24:50,003 INFO: 127.0.0.1 - - [03/May/2024 22:24:50] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:26:17,483 INFO: 127.0.0.1 - - [03/May/2024 22:26:17] "GET / HTTP/1.1" 200 -
+2024-05-03 22:26:17,625 INFO: 127.0.0.1 - - [03/May/2024 22:26:17] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:26:17,640 INFO: 127.0.0.1 - - [03/May/2024 22:26:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:26:17,656 INFO: 127.0.0.1 - - [03/May/2024 22:26:17] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:26:17,781 INFO: 127.0.0.1 - - [03/May/2024 22:26:17] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:28:42,508 INFO: 127.0.0.1 - - [03/May/2024 22:28:42] "GET / HTTP/1.1" 200 -
+2024-05-03 22:28:42,649 INFO: 127.0.0.1 - - [03/May/2024 22:28:42] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:28:42,665 INFO: 127.0.0.1 - - [03/May/2024 22:28:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:28:42,712 INFO: 127.0.0.1 - - [03/May/2024 22:28:42] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:28:42,837 INFO: 127.0.0.1 - - [03/May/2024 22:28:42] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:29:04,538 INFO: 127.0.0.1 - - [03/May/2024 22:29:04] "GET /news HTTP/1.1" 200 -
+2024-05-03 22:29:04,731 INFO: 127.0.0.1 - - [03/May/2024 22:29:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:29:04,742 INFO: 127.0.0.1 - - [03/May/2024 22:29:04] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 22:29:04,774 INFO: 127.0.0.1 - - [03/May/2024 22:29:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:29:04,852 INFO: 127.0.0.1 - - [03/May/2024 22:29:04] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:29:14,548 INFO: 127.0.0.1 - - [03/May/2024 22:29:14] "GET / HTTP/1.1" 200 -
+2024-05-03 22:29:14,706 INFO: 127.0.0.1 - - [03/May/2024 22:29:14] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:29:14,706 INFO: 127.0.0.1 - - [03/May/2024 22:29:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:29:14,753 INFO: 127.0.0.1 - - [03/May/2024 22:29:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:29:14,926 INFO: 127.0.0.1 - - [03/May/2024 22:29:14] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:29:36,243 INFO: 127.0.0.1 - - [03/May/2024 22:29:36] "POST / HTTP/1.1" 200 -
+2024-05-03 22:29:36,400 INFO: 127.0.0.1 - - [03/May/2024 22:29:36] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:29:36,400 INFO: 127.0.0.1 - - [03/May/2024 22:29:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:29:36,432 INFO: 127.0.0.1 - - [03/May/2024 22:29:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:29:36,526 INFO: 127.0.0.1 - - [03/May/2024 22:29:36] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:31:32,042 INFO: 127.0.0.1 - - [03/May/2024 22:31:32] "POST / HTTP/1.1" 200 -
+2024-05-03 22:31:32,168 INFO: 127.0.0.1 - - [03/May/2024 22:31:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:31:32,183 INFO: 127.0.0.1 - - [03/May/2024 22:31:32] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:31:32,183 INFO: 127.0.0.1 - - [03/May/2024 22:31:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:31:32,280 INFO: 127.0.0.1 - - [03/May/2024 22:31:32] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:31:53,523 INFO: 127.0.0.1 - - [03/May/2024 22:31:53] "POST / HTTP/1.1" 200 -
+2024-05-03 22:31:53,680 INFO: 127.0.0.1 - - [03/May/2024 22:31:53] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:31:53,680 INFO: 127.0.0.1 - - [03/May/2024 22:31:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:31:53,695 INFO: 127.0.0.1 - - [03/May/2024 22:31:53] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:31:53,790 INFO: 127.0.0.1 - - [03/May/2024 22:31:53] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:32:10,648 INFO: 127.0.0.1 - - [03/May/2024 22:32:10] "POST / HTTP/1.1" 200 -
+2024-05-03 22:32:10,859 INFO: 127.0.0.1 - - [03/May/2024 22:32:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:32:10,868 INFO: 127.0.0.1 - - [03/May/2024 22:32:10] "[33mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 404 -
+2024-05-03 22:32:10,899 INFO: 127.0.0.1 - - [03/May/2024 22:32:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:32:10,993 INFO: 127.0.0.1 - - [03/May/2024 22:32:10] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:32:16,894 INFO: 127.0.0.1 - - [03/May/2024 22:32:16] "GET /news HTTP/1.1" 200 -
+2024-05-03 22:32:17,066 INFO: 127.0.0.1 - - [03/May/2024 22:32:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:32:17,066 INFO: 127.0.0.1 - - [03/May/2024 22:32:17] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 22:32:17,082 INFO: 127.0.0.1 - - [03/May/2024 22:32:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:32:17,145 INFO: 127.0.0.1 - - [03/May/2024 22:32:17] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:37:51,757 INFO: 127.0.0.1 - - [03/May/2024 22:37:51] "POST / HTTP/1.1" 200 -
+2024-05-03 22:37:51,961 INFO: 127.0.0.1 - - [03/May/2024 22:37:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:37:51,961 INFO: 127.0.0.1 - - [03/May/2024 22:37:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:37:51,961 INFO: 127.0.0.1 - - [03/May/2024 22:37:51] "GET /static/weather-icons/sunny.png HTTP/1.1" 200 -
+2024-05-03 22:37:52,165 INFO: 127.0.0.1 - - [03/May/2024 22:37:52] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:39:40,244 INFO: 127.0.0.1 - - [03/May/2024 22:39:40] "POST / HTTP/1.1" 200 -
+2024-05-03 22:39:40,401 INFO: 127.0.0.1 - - [03/May/2024 22:39:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:39:40,401 INFO: 127.0.0.1 - - [03/May/2024 22:39:40] "[36mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 304 -
+2024-05-03 22:39:40,417 INFO: 127.0.0.1 - - [03/May/2024 22:39:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:39:40,825 INFO: 127.0.0.1 - - [03/May/2024 22:39:40] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:43:07,869 INFO: 127.0.0.1 - - [03/May/2024 22:43:07] "POST / HTTP/1.1" 200 -
+2024-05-03 22:43:08,183 INFO: 127.0.0.1 - - [03/May/2024 22:43:08] "[36mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 304 -
+2024-05-03 22:43:08,325 INFO: 127.0.0.1 - - [03/May/2024 22:43:08] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:43:08,654 INFO: 127.0.0.1 - - [03/May/2024 22:43:08] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-03 22:43:08,733 INFO: 127.0.0.1 - - [03/May/2024 22:43:08] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:47:55,937 INFO: 127.0.0.1 - - [03/May/2024 22:47:55] "POST / HTTP/1.1" 200 -
+2024-05-03 22:47:56,063 INFO: 127.0.0.1 - - [03/May/2024 22:47:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:47:56,094 INFO: 127.0.0.1 - - [03/May/2024 22:47:56] "[36mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 304 -
+2024-05-03 22:47:56,110 INFO: 127.0.0.1 - - [03/May/2024 22:47:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:47:56,299 INFO: 127.0.0.1 - - [03/May/2024 22:47:56] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:48:05,135 INFO: 127.0.0.1 - - [03/May/2024 22:48:05] "GET /news HTTP/1.1" 200 -
+2024-05-03 22:48:05,324 INFO: 127.0.0.1 - - [03/May/2024 22:48:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:48:05,340 INFO: 127.0.0.1 - - [03/May/2024 22:48:05] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 22:48:05,340 INFO: 127.0.0.1 - - [03/May/2024 22:48:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:48:05,544 INFO: 127.0.0.1 - - [03/May/2024 22:48:05] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:49:07,560 INFO: 127.0.0.1 - - [03/May/2024 22:49:07] "GET /news HTTP/1.1" 200 -
+2024-05-03 22:49:07,721 INFO: 127.0.0.1 - - [03/May/2024 22:49:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:49:07,721 INFO: 127.0.0.1 - - [03/May/2024 22:49:07] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 22:49:07,746 INFO: 127.0.0.1 - - [03/May/2024 22:49:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:49:07,846 INFO: 127.0.0.1 - - [03/May/2024 22:49:07] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:51:24,229 INFO: 127.0.0.1 - - [03/May/2024 22:51:24] "GET /news HTTP/1.1" 200 -
+2024-05-03 22:51:24,401 INFO: 127.0.0.1 - - [03/May/2024 22:51:24] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 22:51:24,449 INFO: 127.0.0.1 - - [03/May/2024 22:51:24] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 22:51:24,590 INFO: 127.0.0.1 - - [03/May/2024 22:51:24] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-03 22:51:24,700 INFO: 127.0.0.1 - - [03/May/2024 22:51:24] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:51:32,821 INFO: 127.0.0.1 - - [03/May/2024 22:51:32] "GET / HTTP/1.1" 200 -
+2024-05-03 22:51:32,963 INFO: 127.0.0.1 - - [03/May/2024 22:51:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 22:51:33,010 INFO: 127.0.0.1 - - [03/May/2024 22:51:33] "[36mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 304 -
+2024-05-03 22:51:33,010 INFO: 127.0.0.1 - - [03/May/2024 22:51:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 22:51:33,214 INFO: 127.0.0.1 - - [03/May/2024 22:51:33] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-05-03 22:59:14,411 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 22:59:19,310 INFO:  * Restarting with stat
+2024-05-03 23:07:23,551 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 23:07:23,551 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 23:07:23,551 INFO:  * Restarting with stat
+2024-05-03 23:07:28,231 WARNING:  * Debugger is active!
+2024-05-03 23:07:28,247 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 23:07:30,701 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:07:31,376 INFO: 127.0.0.1 - - [03/May/2024 23:07:31] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-03 23:07:32,083 INFO: 127.0.0.1 - - [03/May/2024 23:07:32] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-03 23:07:32,083 INFO: 127.0.0.1 - - [03/May/2024 23:07:32] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-03 23:07:32,287 INFO: 127.0.0.1 - - [03/May/2024 23:07:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 23:07:32,428 INFO: 127.0.0.1 - - [03/May/2024 23:07:32] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-03 23:11:06,399 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-03 23:11:06,399 INFO: [33mPress CTRL+C to quit[0m
+2024-05-03 23:11:06,399 INFO:  * Restarting with stat
+2024-05-03 23:11:13,355 WARNING:  * Debugger is active!
+2024-05-03 23:11:13,368 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 23:11:13,665 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:11:14,089 INFO: 127.0.0.1 - - [03/May/2024 23:11:14] "GET / HTTP/1.1" 200 -
+2024-05-03 23:11:14,258 INFO: 127.0.0.1 - - [03/May/2024 23:11:14] "[33mGET /static/weather-icons/error.png HTTP/1.1[0m" 404 -
+2024-05-03 23:11:14,513 INFO: 127.0.0.1 - - [03/May/2024 23:11:14] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-03 23:11:14,843 INFO: 127.0.0.1 - - [03/May/2024 23:11:14] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-03 23:11:14,921 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:11:14,921 INFO: 127.0.0.1 - - [03/May/2024 23:11:14] "GET / HTTP/1.1" 200 -
+2024-05-03 23:11:25,752 INFO: 127.0.0.1 - - [03/May/2024 23:11:25] "GET /news HTTP/1.1" 200 -
+2024-05-03 23:11:25,899 INFO: 127.0.0.1 - - [03/May/2024 23:11:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 23:11:25,908 INFO: 127.0.0.1 - - [03/May/2024 23:11:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 23:11:25,924 INFO: 127.0.0.1 - - [03/May/2024 23:11:25] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 23:11:26,003 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:11:26,003 INFO: 127.0.0.1 - - [03/May/2024 23:11:26] "GET / HTTP/1.1" 200 -
+2024-05-03 23:15:08,483 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\weather_utils.py', reloading
+2024-05-03 23:15:09,756 INFO:  * Restarting with stat
+2024-05-03 23:15:17,632 WARNING:  * Debugger is active!
+2024-05-03 23:15:17,632 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 23:15:54,707 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:15:54,739 INFO: 127.0.0.1 - - [03/May/2024 23:15:54] "GET / HTTP/1.1" 200 -
+2024-05-03 23:15:54,927 INFO: 127.0.0.1 - - [03/May/2024 23:15:54] "[33mGET /static/weather-icons/error.png HTTP/1.1[0m" 404 -
+2024-05-03 23:15:55,633 INFO: 127.0.0.1 - - [03/May/2024 23:15:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 23:15:55,681 INFO: 127.0.0.1 - - [03/May/2024 23:15:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 23:15:55,743 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:15:55,759 INFO: 127.0.0.1 - - [03/May/2024 23:15:55] "GET / HTTP/1.1" 200 -
+2024-05-03 23:17:58,612 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\weather_utils.py', reloading
+2024-05-03 23:17:59,677 INFO:  * Restarting with stat
+2024-05-03 23:18:06,361 WARNING:  * Debugger is active!
+2024-05-03 23:18:06,361 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 23:18:22,926 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:18:22,939 INFO: 127.0.0.1 - - [03/May/2024 23:18:22] "GET / HTTP/1.1" 200 -
+2024-05-03 23:18:23,708 INFO: 127.0.0.1 - - [03/May/2024 23:18:23] "[33mGET /static/weather-icons/error.png HTTP/1.1[0m" 404 -
+2024-05-03 23:18:23,912 INFO: 127.0.0.1 - - [03/May/2024 23:18:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 23:18:23,912 INFO: 127.0.0.1 - - [03/May/2024 23:18:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 23:18:24,029 ERROR: Error: name 'geocoder' is not defined
+2024-05-03 23:18:24,038 INFO: 127.0.0.1 - - [03/May/2024 23:18:24] "GET / HTTP/1.1" 200 -
+2024-05-03 23:19:53,768 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-03 23:19:54,763 INFO:  * Restarting with stat
+2024-05-03 23:20:01,825 WARNING:  * Debugger is active!
+2024-05-03 23:20:01,833 INFO:  * Debugger PIN: 102-727-344
+2024-05-03 23:20:24,094 INFO: 127.0.0.1 - - [03/May/2024 23:20:24] "GET / HTTP/1.1" 200 -
+2024-05-03 23:20:24,267 INFO: 127.0.0.1 - - [03/May/2024 23:20:24] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-03 23:20:24,392 INFO: 127.0.0.1 - - [03/May/2024 23:20:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 23:20:24,392 INFO: 127.0.0.1 - - [03/May/2024 23:20:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 23:20:29,371 INFO: 127.0.0.1 - - [03/May/2024 23:20:29] "GET / HTTP/1.1" 200 -
+2024-05-03 23:20:50,506 INFO: 127.0.0.1 - - [03/May/2024 23:20:50] "GET /news HTTP/1.1" 200 -
+2024-05-03 23:20:50,663 INFO: 127.0.0.1 - - [03/May/2024 23:20:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 23:20:50,681 INFO: 127.0.0.1 - - [03/May/2024 23:20:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 23:20:50,694 INFO: 127.0.0.1 - - [03/May/2024 23:20:50] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-03 23:20:55,519 INFO: 127.0.0.1 - - [03/May/2024 23:20:55] "GET / HTTP/1.1" 200 -
+2024-05-03 23:23:47,350 INFO: 127.0.0.1 - - [03/May/2024 23:23:47] "GET / HTTP/1.1" 200 -
+2024-05-03 23:23:47,506 INFO: 127.0.0.1 - - [03/May/2024 23:23:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-03 23:23:47,506 INFO: 127.0.0.1 - - [03/May/2024 23:23:47] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-03 23:23:47,506 INFO: 127.0.0.1 - - [03/May/2024 23:23:47] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-03 23:23:50,979 INFO: 127.0.0.1 - - [03/May/2024 23:23:50] "GET / HTTP/1.1" 200 -
+2024-05-04 11:33:50,670 INFO: 127.0.0.1 - - [04/May/2024 11:33:50] "GET /news HTTP/1.1" 200 -
+2024-05-04 11:33:50,784 INFO: 127.0.0.1 - - [04/May/2024 11:33:50] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-04 11:33:50,789 INFO: 127.0.0.1 - - [04/May/2024 11:33:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 11:33:50,790 INFO: 127.0.0.1 - - [04/May/2024 11:33:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 11:33:53,177 INFO: 127.0.0.1 - - [04/May/2024 11:33:53] "GET / HTTP/1.1" 200 -
+2024-05-04 11:33:59,206 INFO: 127.0.0.1 - - [04/May/2024 11:33:59] "GET / HTTP/1.1" 200 -
+2024-05-04 11:33:59,299 INFO: 127.0.0.1 - - [04/May/2024 11:33:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 11:33:59,303 INFO: 127.0.0.1 - - [04/May/2024 11:33:59] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 11:33:59,311 INFO: 127.0.0.1 - - [04/May/2024 11:33:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 11:34:01,927 INFO: 127.0.0.1 - - [04/May/2024 11:34:01] "GET / HTTP/1.1" 200 -
+2024-05-04 11:55:31,448 INFO: 127.0.0.1 - - [04/May/2024 11:55:31] "GET / HTTP/1.1" 200 -
+2024-05-04 11:55:31,737 INFO: 127.0.0.1 - - [04/May/2024 11:55:31] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 11:55:31,741 INFO: 127.0.0.1 - - [04/May/2024 11:55:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 11:55:31,876 INFO: 127.0.0.1 - - [04/May/2024 11:55:31] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 11:55:35,010 INFO: 127.0.0.1 - - [04/May/2024 11:55:35] "GET / HTTP/1.1" 200 -
+2024-05-04 11:55:52,399 INFO: 127.0.0.1 - - [04/May/2024 11:55:52] "GET / HTTP/1.1" 200 -
+2024-05-04 11:55:52,612 INFO: 127.0.0.1 - - [04/May/2024 11:55:52] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 11:55:52,615 INFO: 127.0.0.1 - - [04/May/2024 11:55:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 11:55:52,632 INFO: 127.0.0.1 - - [04/May/2024 11:55:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 11:55:56,266 INFO: 127.0.0.1 - - [04/May/2024 11:55:56] "GET / HTTP/1.1" 200 -
+2024-05-04 12:00:30,326 INFO: 127.0.0.1 - - [04/May/2024 12:00:30] "GET / HTTP/1.1" 200 -
+2024-05-04 12:00:30,402 INFO: 127.0.0.1 - - [04/May/2024 12:00:30] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:00:30,407 INFO: 127.0.0.1 - - [04/May/2024 12:00:30] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-04 12:00:30,415 INFO: 127.0.0.1 - - [04/May/2024 12:00:30] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:00:30,644 INFO: 127.0.0.1 - - [04/May/2024 12:00:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-04 12:00:34,921 INFO: 127.0.0.1 - - [04/May/2024 12:00:34] "GET / HTTP/1.1" 200 -
+2024-05-04 12:00:52,716 INFO: 127.0.0.1 - - [04/May/2024 12:00:52] "GET / HTTP/1.1" 200 -
+2024-05-04 12:00:52,905 INFO: 127.0.0.1 - - [04/May/2024 12:00:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:00:52,931 INFO: 127.0.0.1 - - [04/May/2024 12:00:52] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:00:52,934 INFO: 127.0.0.1 - - [04/May/2024 12:00:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:00:57,096 INFO: 127.0.0.1 - - [04/May/2024 12:00:57] "GET / HTTP/1.1" 200 -
+2024-05-04 12:01:12,472 INFO: 127.0.0.1 - - [04/May/2024 12:01:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:02:35,053 INFO: 127.0.0.1 - - [04/May/2024 12:02:35] "GET /news HTTP/1.1" 200 -
+2024-05-04 12:02:35,498 INFO: 127.0.0.1 - - [04/May/2024 12:02:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:02:35,601 INFO: 127.0.0.1 - - [04/May/2024 12:02:35] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-04 12:02:35,601 INFO: 127.0.0.1 - - [04/May/2024 12:02:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:02:40,488 INFO: 127.0.0.1 - - [04/May/2024 12:02:40] "GET / HTTP/1.1" 200 -
+2024-05-04 12:07:38,364 INFO: 127.0.0.1 - - [04/May/2024 12:07:38] "GET / HTTP/1.1" 200 -
+2024-05-04 12:07:38,533 INFO: 127.0.0.1 - - [04/May/2024 12:07:38] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:07:38,539 INFO: 127.0.0.1 - - [04/May/2024 12:07:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:07:39,388 INFO: 127.0.0.1 - - [04/May/2024 12:07:39] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:07:42,980 INFO: 127.0.0.1 - - [04/May/2024 12:07:42] "GET / HTTP/1.1" 200 -
+2024-05-04 12:07:45,154 INFO: 127.0.0.1 - - [04/May/2024 12:07:45] "GET / HTTP/1.1" 200 -
+2024-05-04 12:07:45,258 INFO: 127.0.0.1 - - [04/May/2024 12:07:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:07:45,259 INFO: 127.0.0.1 - - [04/May/2024 12:07:45] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:07:45,275 INFO: 127.0.0.1 - - [04/May/2024 12:07:45] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:07:47,636 INFO: 127.0.0.1 - - [04/May/2024 12:07:47] "GET / HTTP/1.1" 200 -
+2024-05-04 12:09:28,712 INFO: 127.0.0.1 - - [04/May/2024 12:09:28] "GET / HTTP/1.1" 200 -
+2024-05-04 12:09:28,790 INFO: 127.0.0.1 - - [04/May/2024 12:09:28] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:09:28,793 INFO: 127.0.0.1 - - [04/May/2024 12:09:28] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-04 12:09:28,799 INFO: 127.0.0.1 - - [04/May/2024 12:09:28] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:09:28,868 INFO: 127.0.0.1 - - [04/May/2024 12:09:28] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-04 12:09:31,085 INFO: 127.0.0.1 - - [04/May/2024 12:09:31] "GET / HTTP/1.1" 200 -
+2024-05-04 12:10:06,451 INFO: 127.0.0.1 - - [04/May/2024 12:10:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:25:53,357 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 12:25:56,143 INFO:  * Restarting with stat
+2024-05-04 12:26:13,391 WARNING:  * Debugger is active!
+2024-05-04 12:26:13,399 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:26:23,013 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 12:26:23,753 INFO:  * Restarting with stat
+2024-05-04 12:26:28,372 WARNING:  * Debugger is active!
+2024-05-04 12:26:28,374 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:27:29,337 INFO: 127.0.0.1 - - [04/May/2024 12:27:29] "GET / HTTP/1.1" 200 -
+2024-05-04 12:27:29,979 INFO: 127.0.0.1 - - [04/May/2024 12:27:29] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:27:30,326 INFO: 127.0.0.1 - - [04/May/2024 12:27:30] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:27:30,932 INFO: 127.0.0.1 - - [04/May/2024 12:27:30] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:27:35,303 INFO: 127.0.0.1 - - [04/May/2024 12:27:35] "GET / HTTP/1.1" 200 -
+2024-05-04 12:27:59,631 INFO: 127.0.0.1 - - [04/May/2024 12:27:59] "GET /news HTTP/1.1" 200 -
+2024-05-04 12:27:59,766 INFO: 127.0.0.1 - - [04/May/2024 12:27:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:27:59,782 INFO: 127.0.0.1 - - [04/May/2024 12:27:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:27:59,810 INFO: 127.0.0.1 - - [04/May/2024 12:27:59] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-04 12:28:03,170 INFO: 127.0.0.1 - - [04/May/2024 12:28:03] "GET / HTTP/1.1" 200 -
+2024-05-04 12:28:11,447 INFO: 127.0.0.1 - - [04/May/2024 12:28:11] "GET / HTTP/1.1" 200 -
+2024-05-04 12:28:11,611 INFO: 127.0.0.1 - - [04/May/2024 12:28:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:28:11,616 INFO: 127.0.0.1 - - [04/May/2024 12:28:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:28:11,648 INFO: 127.0.0.1 - - [04/May/2024 12:28:11] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:28:14,989 INFO: 127.0.0.1 - - [04/May/2024 12:28:14] "GET / HTTP/1.1" 200 -
+2024-05-04 12:29:14,964 INFO: 127.0.0.1 - - [04/May/2024 12:29:14] "GET / HTTP/1.1" 200 -
+2024-05-04 12:29:15,110 INFO: 127.0.0.1 - - [04/May/2024 12:29:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:29:15,113 INFO: 127.0.0.1 - - [04/May/2024 12:29:15] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:29:15,153 INFO: 127.0.0.1 - - [04/May/2024 12:29:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:29:17,628 INFO: 127.0.0.1 - - [04/May/2024 12:29:17] "GET / HTTP/1.1" 200 -
+2024-05-04 12:30:25,529 INFO: 127.0.0.1 - - [04/May/2024 12:30:25] "GET / HTTP/1.1" 200 -
+2024-05-04 12:30:25,798 INFO: 127.0.0.1 - - [04/May/2024 12:30:25] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:30:25,817 INFO: 127.0.0.1 - - [04/May/2024 12:30:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:30:25,943 INFO: 127.0.0.1 - - [04/May/2024 12:30:25] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:30:28,564 INFO: 127.0.0.1 - - [04/May/2024 12:30:28] "GET / HTTP/1.1" 200 -
+2024-05-04 12:33:06,902 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 12:33:08,888 INFO:  * Restarting with stat
+2024-05-04 12:33:15,594 WARNING:  * Debugger is active!
+2024-05-04 12:33:15,605 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:33:45,731 INFO: 127.0.0.1 - - [04/May/2024 12:33:45] "GET / HTTP/1.1" 200 -
+2024-05-04 12:37:21,144 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 12:37:22,952 INFO:  * Restarting with stat
+2024-05-04 12:37:28,599 WARNING:  * Debugger is active!
+2024-05-04 12:37:28,602 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:38:37,887 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 12:38:38,273 INFO:  * Restarting with stat
+2024-05-04 12:38:43,711 WARNING:  * Debugger is active!
+2024-05-04 12:38:43,715 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:42:03,505 INFO: 127.0.0.1 - - [04/May/2024 12:42:03] "GET / HTTP/1.1" 200 -
+2024-05-04 12:42:03,852 INFO: 127.0.0.1 - - [04/May/2024 12:42:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:42:04,042 INFO: 127.0.0.1 - - [04/May/2024 12:42:04] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:42:05,710 INFO: 127.0.0.1 - - [04/May/2024 12:42:05] "[35m[1mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 500 -
+2024-05-04 12:42:09,086 INFO: 127.0.0.1 - - [04/May/2024 12:42:09] "GET / HTTP/1.1" 200 -
+2024-05-04 12:42:11,861 INFO: 127.0.0.1 - - [04/May/2024 12:42:11] "GET /news HTTP/1.1" 200 -
+2024-05-04 12:42:11,956 INFO: 127.0.0.1 - - [04/May/2024 12:42:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:42:11,969 INFO: 127.0.0.1 - - [04/May/2024 12:42:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:42:11,999 INFO: 127.0.0.1 - - [04/May/2024 12:42:11] "[35m[1mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 500 -
+2024-05-04 12:42:14,393 INFO: 127.0.0.1 - - [04/May/2024 12:42:14] "GET / HTTP/1.1" 200 -
+2024-05-04 12:42:16,879 INFO: 127.0.0.1 - - [04/May/2024 12:42:16] "GET / HTTP/1.1" 200 -
+2024-05-04 12:42:16,959 INFO: 127.0.0.1 - - [04/May/2024 12:42:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:42:16,967 INFO: 127.0.0.1 - - [04/May/2024 12:42:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:42:17,017 INFO: 127.0.0.1 - - [04/May/2024 12:42:17] "[35m[1mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 500 -
+2024-05-04 12:42:19,759 INFO: 127.0.0.1 - - [04/May/2024 12:42:19] "GET / HTTP/1.1" 200 -
+2024-05-04 12:42:23,657 INFO: 127.0.0.1 - - [04/May/2024 12:42:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:46:21,141 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-04 12:46:21,142 INFO: [33mPress CTRL+C to quit[0m
+2024-05-04 12:46:21,144 INFO:  * Restarting with stat
+2024-05-04 12:46:23,442 WARNING:  * Debugger is active!
+2024-05-04 12:46:23,458 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:46:27,215 INFO: 127.0.0.1 - - [04/May/2024 12:46:27] "[35m[1mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 500 -
+2024-05-04 12:46:27,262 INFO: 127.0.0.1 - - [04/May/2024 12:46:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:46:27,285 INFO: 127.0.0.1 - - [04/May/2024 12:46:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:46:28,422 INFO: 127.0.0.1 - - [04/May/2024 12:46:28] "[35m[1mGET /favicon.ico HTTP/1.1[0m" 500 -
+2024-05-04 12:46:34,617 INFO: 127.0.0.1 - - [04/May/2024 12:46:34] "GET / HTTP/1.1" 200 -
+2024-05-04 12:53:20,616 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-04 12:53:20,616 INFO: [33mPress CTRL+C to quit[0m
+2024-05-04 12:53:20,616 INFO:  * Restarting with stat
+2024-05-04 12:53:23,071 WARNING:  * Debugger is active!
+2024-05-04 12:53:23,077 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 12:54:10,396 INFO: 127.0.0.1 - - [04/May/2024 12:54:10] "GET / HTTP/1.1" 200 -
+2024-05-04 12:54:10,901 INFO: 127.0.0.1 - - [04/May/2024 12:54:10] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 12:54:10,902 INFO: 127.0.0.1 - - [04/May/2024 12:54:10] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-04 12:54:11,211 INFO: 127.0.0.1 - - [04/May/2024 12:54:11] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:54:11,564 INFO: 127.0.0.1 - - [04/May/2024 12:54:11] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-04 12:54:13,721 INFO: 127.0.0.1 - - [04/May/2024 12:54:13] "GET / HTTP/1.1" 200 -
+2024-05-04 12:54:37,342 INFO: 127.0.0.1 - - [04/May/2024 12:54:37] "GET /news HTTP/1.1" 200 -
+2024-05-04 12:54:37,413 INFO: 127.0.0.1 - - [04/May/2024 12:54:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:54:37,726 INFO: 127.0.0.1 - - [04/May/2024 12:54:37] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-04 12:54:37,730 INFO: 127.0.0.1 - - [04/May/2024 12:54:37] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:54:40,868 INFO: 127.0.0.1 - - [04/May/2024 12:54:40] "GET / HTTP/1.1" 200 -
+2024-05-04 12:54:47,056 INFO: 127.0.0.1 - - [04/May/2024 12:54:47] "GET / HTTP/1.1" 200 -
+2024-05-04 12:54:47,452 INFO: 127.0.0.1 - - [04/May/2024 12:54:47] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 12:54:47,453 INFO: 127.0.0.1 - - [04/May/2024 12:54:47] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 12:54:47,456 INFO: 127.0.0.1 - - [04/May/2024 12:54:47] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 12:54:50,208 INFO: 127.0.0.1 - - [04/May/2024 12:54:50] "GET / HTTP/1.1" 200 -
+2024-05-04 12:55:15,508 INFO: 127.0.0.1 - - [04/May/2024 12:55:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:09:25,897 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-04 18:09:25,897 INFO: [33mPress CTRL+C to quit[0m
+2024-05-04 18:09:25,913 INFO:  * Restarting with stat
+2024-05-04 18:09:32,661 WARNING:  * Debugger is active!
+2024-05-04 18:09:32,677 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 18:10:52,624 INFO: 127.0.0.1 - - [04/May/2024 18:10:52] "GET / HTTP/1.1" 200 -
+2024-05-04 18:10:55,365 INFO: 127.0.0.1 - - [04/May/2024 18:10:55] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:10:55,649 INFO: 127.0.0.1 - - [04/May/2024 18:10:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:10:55,649 INFO: 127.0.0.1 - - [04/May/2024 18:10:55] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:10:56,262 INFO: 127.0.0.1 - - [04/May/2024 18:10:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-04 18:11:47,896 INFO: 127.0.0.1 - - [04/May/2024 18:11:47] "GET / HTTP/1.1" 200 -
+2024-05-04 18:12:06,243 INFO: 127.0.0.1 - - [04/May/2024 18:12:06] "GET / HTTP/1.1" 200 -
+2024-05-04 18:12:08,626 INFO: 127.0.0.1 - - [04/May/2024 18:12:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:12:08,779 INFO: 127.0.0.1 - - [04/May/2024 18:12:08] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:12:08,787 INFO: 127.0.0.1 - - [04/May/2024 18:12:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:12:13,485 INFO: 127.0.0.1 - - [04/May/2024 18:12:13] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-05-04 18:12:37,102 INFO: 127.0.0.1 - - [04/May/2024 18:12:37] "GET / HTTP/1.1" 200 -
+2024-05-04 18:19:52,191 INFO: 127.0.0.1 - - [04/May/2024 18:19:52] "GET / HTTP/1.1" 200 -
+2024-05-04 18:19:52,349 INFO: 127.0.0.1 - - [04/May/2024 18:19:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:19:52,363 INFO: 127.0.0.1 - - [04/May/2024 18:19:52] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:19:52,771 INFO: 127.0.0.1 - - [04/May/2024 18:19:52] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 18:20:38,525 INFO: 127.0.0.1 - - [04/May/2024 18:20:38] "GET / HTTP/1.1" 200 -
+2024-05-04 18:21:23,509 INFO: 127.0.0.1 - - [04/May/2024 18:21:23] "GET / HTTP/1.1" 200 -
+2024-05-04 18:21:23,655 INFO: 127.0.0.1 - - [04/May/2024 18:21:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:21:23,655 INFO: 127.0.0.1 - - [04/May/2024 18:21:23] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:21:23,907 INFO: 127.0.0.1 - - [04/May/2024 18:21:23] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 18:21:49,761 INFO: 127.0.0.1 - - [04/May/2024 18:21:49] "GET / HTTP/1.1" 200 -
+2024-05-04 18:23:15,028 INFO: 127.0.0.1 - - [04/May/2024 18:23:15] "GET / HTTP/1.1" 200 -
+2024-05-04 18:23:34,570 INFO: 127.0.0.1 - - [04/May/2024 18:23:34] "GET /news HTTP/1.1" 200 -
+2024-05-04 18:23:34,727 INFO: 127.0.0.1 - - [04/May/2024 18:23:34] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:23:34,743 INFO: 127.0.0.1 - - [04/May/2024 18:23:34] "[33mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 404 -
+2024-05-04 18:23:34,743 INFO: 127.0.0.1 - - [04/May/2024 18:23:34] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 18:24:07,597 INFO: 127.0.0.1 - - [04/May/2024 18:24:07] "GET /news HTTP/1.1" 200 -
+2024-05-04 18:24:20,649 INFO: 127.0.0.1 - - [04/May/2024 18:24:20] "GET / HTTP/1.1" 200 -
+2024-05-04 18:25:36,122 INFO: 127.0.0.1 - - [04/May/2024 18:25:36] "GET /news HTTP/1.1" 200 -
+2024-05-04 18:25:36,263 INFO: 127.0.0.1 - - [04/May/2024 18:25:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:25:36,279 INFO: 127.0.0.1 - - [04/May/2024 18:25:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:25:36,342 INFO: 127.0.0.1 - - [04/May/2024 18:25:36] "GET /static/news-thumbnail.jpg HTTP/1.1" 200 -
+2024-05-04 18:25:39,704 INFO: 127.0.0.1 - - [04/May/2024 18:25:39] "GET / HTTP/1.1" 200 -
+2024-05-04 18:26:08,499 INFO: 127.0.0.1 - - [04/May/2024 18:26:08] "GET / HTTP/1.1" 200 -
+2024-05-04 18:26:08,629 INFO: 127.0.0.1 - - [04/May/2024 18:26:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:26:08,660 INFO: 127.0.0.1 - - [04/May/2024 18:26:08] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:26:08,676 INFO: 127.0.0.1 - - [04/May/2024 18:26:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:26:17,105 INFO: 127.0.0.1 - - [04/May/2024 18:26:17] "GET / HTTP/1.1" 200 -
+2024-05-04 18:31:27,508 INFO: 127.0.0.1 - - [04/May/2024 18:31:27] "GET / HTTP/1.1" 200 -
+2024-05-04 18:31:27,649 INFO: 127.0.0.1 - - [04/May/2024 18:31:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:31:27,649 INFO: 127.0.0.1 - - [04/May/2024 18:31:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:31:27,775 INFO: 127.0.0.1 - - [04/May/2024 18:31:27] "[36mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 304 -
+2024-05-04 18:31:52,559 INFO: 127.0.0.1 - - [04/May/2024 18:31:52] "GET / HTTP/1.1" 200 -
+2024-05-04 18:34:52,007 INFO: 127.0.0.1 - - [04/May/2024 18:34:52] "GET / HTTP/1.1" 200 -
+2024-05-04 18:34:52,149 INFO: 127.0.0.1 - - [04/May/2024 18:34:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:34:52,164 INFO: 127.0.0.1 - - [04/May/2024 18:34:52] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:34:52,180 INFO: 127.0.0.1 - - [04/May/2024 18:34:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:35:08,242 INFO: 127.0.0.1 - - [04/May/2024 18:35:08] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:35:23,083 INFO: 127.0.0.1 - - [04/May/2024 18:35:23] "GET / HTTP/1.1" 200 -
+2024-05-04 18:35:31,780 INFO: 127.0.0.1 - - [04/May/2024 18:35:31] "GET / HTTP/1.1" 200 -
+2024-05-04 18:35:31,943 INFO: 127.0.0.1 - - [04/May/2024 18:35:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:35:31,968 INFO: 127.0.0.1 - - [04/May/2024 18:35:31] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 18:35:31,980 INFO: 127.0.0.1 - - [04/May/2024 18:35:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 18:37:06,741 INFO: 127.0.0.1 - - [04/May/2024 18:37:06] "GET / HTTP/1.1" 200 -
+2024-05-04 18:46:06,959 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 18:46:09,588 INFO:  * Restarting with stat
+2024-05-04 18:46:18,585 WARNING:  * Debugger is active!
+2024-05-04 18:46:18,607 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 18:47:47,891 ERROR: Error: 'Request' object has no attribute 'is_xhr'
+2024-05-04 18:47:47,923 INFO: 127.0.0.1 - - [04/May/2024 18:47:47] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-04 18:47:48,440 INFO: 127.0.0.1 - - [04/May/2024 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-04 18:47:48,503 INFO: 127.0.0.1 - - [04/May/2024 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-04 18:47:48,644 INFO: 127.0.0.1 - - [04/May/2024 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-04 18:47:48,725 INFO: 127.0.0.1 - - [04/May/2024 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-04 18:50:23,736 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 18:50:24,558 INFO:  * Restarting with stat
+2024-05-04 18:50:32,575 WARNING:  * Debugger is active!
+2024-05-04 18:50:32,583 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 18:50:42,455 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 18:50:43,038 INFO:  * Restarting with stat
+2024-05-04 18:50:48,990 WARNING:  * Debugger is active!
+2024-05-04 18:50:48,998 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 18:51:09,738 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 18:51:10,397 INFO:  * Restarting with stat
+2024-05-04 18:51:19,257 WARNING:  * Debugger is active!
+2024-05-04 18:51:19,272 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 18:52:11,073 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 18:52:11,088 INFO: 127.0.0.1 - - [04/May/2024 18:52:11] "GET / HTTP/1.1" 200 -
+2024-05-04 18:52:11,345 INFO: 127.0.0.1 - - [04/May/2024 18:52:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:53:51,220 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 18:53:51,220 INFO: 127.0.0.1 - - [04/May/2024 18:53:51] "GET / HTTP/1.1" 200 -
+2024-05-04 18:53:51,357 INFO: 127.0.0.1 - - [04/May/2024 18:53:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 18:57:55,066 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\weather_utils.py', reloading
+2024-05-04 18:57:55,812 INFO:  * Restarting with stat
+2024-05-04 18:58:04,596 WARNING:  * Debugger is active!
+2024-05-04 18:58:04,596 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 19:09:17,362 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 19:09:19,362 INFO:  * Restarting with stat
+2024-05-04 19:09:27,861 WARNING:  * Debugger is active!
+2024-05-04 19:09:27,867 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 19:10:17,226 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\weather_utils.py', reloading
+2024-05-04 19:10:18,065 INFO:  * Restarting with stat
+2024-05-04 19:10:23,573 WARNING:  * Debugger is active!
+2024-05-04 19:10:23,578 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 19:13:24,729 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 19:13:24,745 INFO: 127.0.0.1 - - [04/May/2024 19:13:24] "GET / HTTP/1.1" 200 -
+2024-05-04 19:13:25,341 INFO: 127.0.0.1 - - [04/May/2024 19:13:25] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-04 19:22:30,407 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-04 19:22:30,407 INFO: [33mPress CTRL+C to quit[0m
+2024-05-04 19:22:30,429 INFO:  * Restarting with stat
+2024-05-04 19:22:36,693 WARNING:  * Debugger is active!
+2024-05-04 19:22:36,693 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 19:23:45,306 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 19:23:45,306 INFO: 127.0.0.1 - - [04/May/2024 19:23:45] "GET / HTTP/1.1" 200 -
+2024-05-04 19:23:45,463 INFO: 127.0.0.1 - - [04/May/2024 19:23:45] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 19:44:28,590 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 19:44:29,790 INFO:  * Restarting with stat
+2024-05-04 19:44:34,075 WARNING:  * Debugger is active!
+2024-05-04 19:44:34,075 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:02:22,054 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 20:02:22,270 INFO: 127.0.0.1 - - [04/May/2024 20:02:22] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-05-04 20:02:22,751 INFO: 127.0.0.1 - - [04/May/2024 20:02:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-04 20:02:22,752 INFO: 127.0.0.1 - - [04/May/2024 20:02:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-04 20:02:22,931 INFO: 127.0.0.1 - - [04/May/2024 20:02:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-04 20:02:22,982 INFO: 127.0.0.1 - - [04/May/2024 20:02:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-04 20:05:34,185 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:05:35,716 INFO:  * Restarting with stat
+2024-05-04 20:05:41,904 WARNING:  * Debugger is active!
+2024-05-04 20:05:41,904 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:05:59,687 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 20:05:59,704 INFO: 127.0.0.1 - - [04/May/2024 20:05:59] "GET / HTTP/1.1" 200 -
+2024-05-04 20:05:59,854 INFO: 127.0.0.1 - - [04/May/2024 20:05:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:09:14,903 ERROR: Error: 'Request' object has no attribute 'is_ajax'
+2024-05-04 20:09:14,904 INFO: 127.0.0.1 - - [04/May/2024 20:09:14] "GET / HTTP/1.1" 200 -
+2024-05-04 20:09:15,310 INFO: 127.0.0.1 - - [04/May/2024 20:09:15] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-04 20:10:37,532 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:10:37,952 INFO:  * Restarting with stat
+2024-05-04 20:10:43,051 WARNING:  * Debugger is active!
+2024-05-04 20:10:43,056 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:10:45,778 ERROR: Error: 'Request' object has no attribute 'is_xhr'
+2024-05-04 20:10:45,786 INFO: 127.0.0.1 - - [04/May/2024 20:10:45] "GET / HTTP/1.1" 200 -
+2024-05-04 20:10:46,229 INFO: 127.0.0.1 - - [04/May/2024 20:10:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:17:36,478 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:17:37,661 INFO:  * Restarting with stat
+2024-05-04 20:17:42,415 WARNING:  * Debugger is active!
+2024-05-04 20:17:42,417 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:17:57,877 INFO: 127.0.0.1 - - [04/May/2024 20:17:57] "GET / HTTP/1.1" 200 -
+2024-05-04 20:17:58,282 INFO: 127.0.0.1 - - [04/May/2024 20:17:58] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 20:17:58,339 INFO: 127.0.0.1 - - [04/May/2024 20:17:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:17:58,441 INFO: 127.0.0.1 - - [04/May/2024 20:17:58] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 20:18:04,772 INFO: 127.0.0.1 - - [04/May/2024 20:18:04] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:18:04,838 INFO: 127.0.0.1 - - [04/May/2024 20:18:04] "GET / HTTP/1.1" 200 -
+2024-05-04 20:18:05,175 INFO: 127.0.0.1 - - [04/May/2024 20:18:05] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:18:05,175 INFO: 127.0.0.1 - - [04/May/2024 20:18:05] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:18:11,650 INFO: 127.0.0.1 - - [04/May/2024 20:18:11] "GET / HTTP/1.1" 200 -
+2024-05-04 20:18:12,940 INFO: 127.0.0.1 - - [04/May/2024 20:18:12] "GET / HTTP/1.1" 200 -
+2024-05-04 20:18:13,343 INFO: 127.0.0.1 - - [04/May/2024 20:18:13] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 20:18:13,343 INFO: 127.0.0.1 - - [04/May/2024 20:18:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:18:13,361 INFO: 127.0.0.1 - - [04/May/2024 20:18:13] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:19:01,810 INFO: 127.0.0.1 - - [04/May/2024 20:19:01] "GET / HTTP/1.1" 200 -
+2024-05-04 20:19:47,702 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\weather_utils.py', reloading
+2024-05-04 20:19:48,079 INFO:  * Restarting with stat
+2024-05-04 20:19:53,496 WARNING:  * Debugger is active!
+2024-05-04 20:19:53,496 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:21:16,079 INFO: 127.0.0.1 - - [04/May/2024 20:21:16] "GET / HTTP/1.1" 200 -
+2024-05-04 20:21:16,511 INFO: 127.0.0.1 - - [04/May/2024 20:21:16] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 20:21:16,578 INFO: 127.0.0.1 - - [04/May/2024 20:21:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:21:16,597 INFO: 127.0.0.1 - - [04/May/2024 20:21:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:21:19,578 INFO: 127.0.0.1 - - [04/May/2024 20:21:19] "GET / HTTP/1.1" 200 -
+2024-05-04 20:21:20,778 INFO: 127.0.0.1 - - [04/May/2024 20:21:20] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:21:21,161 INFO: 127.0.0.1 - - [04/May/2024 20:21:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:21:21,173 INFO: 127.0.0.1 - - [04/May/2024 20:21:21] "GET /static/news-thumbnail.jpg HTTP/1.1" 200 -
+2024-05-04 20:21:21,174 INFO: 127.0.0.1 - - [04/May/2024 20:21:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:22:01,095 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-04 20:22:01,095 INFO: [33mPress CTRL+C to quit[0m
+2024-05-04 20:22:01,106 INFO:  * Restarting with stat
+2024-05-04 20:22:03,485 WARNING:  * Debugger is active!
+2024-05-04 20:22:03,485 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:22:55,029 INFO: 127.0.0.1 - - [04/May/2024 20:22:55] "GET / HTTP/1.1" 200 -
+2024-05-04 20:22:55,118 INFO: 127.0.0.1 - - [04/May/2024 20:22:55] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 20:22:55,185 INFO: 127.0.0.1 - - [04/May/2024 20:22:55] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 20:22:55,185 INFO: 127.0.0.1 - - [04/May/2024 20:22:55] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:23:19,619 INFO: 127.0.0.1 - - [04/May/2024 20:23:19] "GET / HTTP/1.1" 200 -
+2024-05-04 20:24:29,811 INFO: 127.0.0.1 - - [04/May/2024 20:24:29] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:24:29,903 INFO: 127.0.0.1 - - [04/May/2024 20:24:29] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:24:30,082 INFO: 127.0.0.1 - - [04/May/2024 20:24:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:24:30,341 INFO: 127.0.0.1 - - [04/May/2024 20:24:30] "[36mGET /static/news-thumbnail.jpg HTTP/1.1[0m" 304 -
+2024-05-04 20:24:57,015 INFO: 127.0.0.1 - - [04/May/2024 20:24:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:25:14,695 INFO: 127.0.0.1 - - [04/May/2024 20:25:14] "GET / HTTP/1.1" 200 -
+2024-05-04 20:26:35,892 INFO: 127.0.0.1 - - [04/May/2024 20:26:35] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:26:35,986 INFO: 127.0.0.1 - - [04/May/2024 20:26:35] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:26:35,993 INFO: 127.0.0.1 - - [04/May/2024 20:26:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:26:38,670 INFO: 127.0.0.1 - - [04/May/2024 20:26:38] "GET / HTTP/1.1" 200 -
+2024-05-04 20:27:56,235 INFO: 127.0.0.1 - - [04/May/2024 20:27:56] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:27:56,312 INFO: 127.0.0.1 - - [04/May/2024 20:27:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:27:56,315 INFO: 127.0.0.1 - - [04/May/2024 20:27:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:27:59,001 INFO: 127.0.0.1 - - [04/May/2024 20:27:59] "GET / HTTP/1.1" 200 -
+2024-05-04 20:30:20,195 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\weather_utils.py', reloading
+2024-05-04 20:30:20,841 INFO:  * Restarting with stat
+2024-05-04 20:30:24,816 WARNING:  * Debugger is active!
+2024-05-04 20:30:24,816 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:30:27,813 INFO: 127.0.0.1 - - [04/May/2024 20:30:27] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:30:27,947 INFO: 127.0.0.1 - - [04/May/2024 20:30:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:30:27,953 INFO: 127.0.0.1 - - [04/May/2024 20:30:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:30:30,678 INFO: 127.0.0.1 - - [04/May/2024 20:30:30] "GET / HTTP/1.1" 200 -
+2024-05-04 20:34:17,560 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:34:17,892 INFO:  * Restarting with stat
+2024-05-04 20:34:18,793 WARNING:  * Debugger is active!
+2024-05-04 20:34:18,808 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:36:04,603 INFO: 127.0.0.1 - - [04/May/2024 20:36:04] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:36:04,798 INFO: 127.0.0.1 - - [04/May/2024 20:36:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:36:04,805 INFO: 127.0.0.1 - - [04/May/2024 20:36:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:36:10,422 ERROR: Error: name 'API_KEY' is not defined
+2024-05-04 20:36:10,427 INFO: 127.0.0.1 - - [04/May/2024 20:36:10] "GET / HTTP/1.1" 200 -
+2024-05-04 20:36:10,919 ERROR: Error: name 'API_KEY' is not defined
+2024-05-04 20:36:10,919 INFO: 127.0.0.1 - - [04/May/2024 20:36:10] "GET / HTTP/1.1" 200 -
+2024-05-04 20:36:11,019 INFO: 127.0.0.1 - - [04/May/2024 20:36:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:44:05,489 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:44:05,606 INFO:  * Restarting with stat
+2024-05-04 20:44:06,741 WARNING:  * Debugger is active!
+2024-05-04 20:44:06,751 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:45:52,150 ERROR: Error: 'Request' object has no attribute 'is_xhr'
+2024-05-04 20:45:52,282 INFO: 127.0.0.1 - - [04/May/2024 20:45:52] "GET / HTTP/1.1" 200 -
+2024-05-04 20:45:52,444 INFO: 127.0.0.1 - - [04/May/2024 20:45:52] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:47:06,244 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:47:06,338 INFO:  * Restarting with stat
+2024-05-04 20:47:07,421 WARNING:  * Debugger is active!
+2024-05-04 20:47:07,426 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:48:19,322 INFO: 127.0.0.1 - - [04/May/2024 20:48:19] "GET / HTTP/1.1" 200 -
+2024-05-04 20:48:20,095 INFO: 127.0.0.1 - - [04/May/2024 20:48:20] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 20:48:20,154 INFO: 127.0.0.1 - - [04/May/2024 20:48:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:48:20,309 INFO: 127.0.0.1 - - [04/May/2024 20:48:20] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-04 20:48:40,372 INFO: 127.0.0.1 - - [04/May/2024 20:48:40] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:48:40,452 INFO: 127.0.0.1 - - [04/May/2024 20:48:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:48:40,452 INFO: 127.0.0.1 - - [04/May/2024 20:48:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:48:48,126 INFO: 127.0.0.1 - - [04/May/2024 20:48:48] "GET / HTTP/1.1" 200 -
+2024-05-04 20:49:10,550 INFO: 127.0.0.1 - - [04/May/2024 20:49:10] "GET / HTTP/1.1" 200 -
+2024-05-04 20:49:16,165 INFO: 127.0.0.1 - - [04/May/2024 20:49:16] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:49:16,243 INFO: 127.0.0.1 - - [04/May/2024 20:49:16] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:49:16,243 INFO: 127.0.0.1 - - [04/May/2024 20:49:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:49:41,470 INFO: 127.0.0.1 - - [04/May/2024 20:49:41] "GET / HTTP/1.1" 200 -
+2024-05-04 20:49:41,555 INFO: 127.0.0.1 - - [04/May/2024 20:49:41] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 20:49:41,557 INFO: 127.0.0.1 - - [04/May/2024 20:49:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:49:41,560 INFO: 127.0.0.1 - - [04/May/2024 20:49:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:50:00,530 INFO: 127.0.0.1 - - [04/May/2024 20:50:00] "GET / HTTP/1.1" 200 -
+2024-05-04 20:50:06,745 INFO: 127.0.0.1 - - [04/May/2024 20:50:06] "GET / HTTP/1.1" 200 -
+2024-05-04 20:50:27,761 INFO: 127.0.0.1 - - [04/May/2024 20:50:27] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:50:27,844 INFO: 127.0.0.1 - - [04/May/2024 20:50:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:50:27,847 INFO: 127.0.0.1 - - [04/May/2024 20:50:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:50:51,467 INFO: 127.0.0.1 - - [04/May/2024 20:50:51] "GET / HTTP/1.1" 200 -
+2024-05-04 20:57:14,144 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 20:57:14,268 INFO:  * Restarting with stat
+2024-05-04 20:57:15,285 WARNING:  * Debugger is active!
+2024-05-04 20:57:15,302 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 20:59:20,545 INFO: 127.0.0.1 - - [04/May/2024 20:59:20] "GET /news HTTP/1.1" 200 -
+2024-05-04 20:59:20,781 INFO: 127.0.0.1 - - [04/May/2024 20:59:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 20:59:20,782 INFO: 127.0.0.1 - - [04/May/2024 20:59:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 20:59:23,177 INFO: 127.0.0.1 - - [04/May/2024 20:59:23] "GET / HTTP/1.1" 200 -
+2024-05-04 21:01:14,954 INFO: 127.0.0.1 - - [04/May/2024 21:01:14] "GET / HTTP/1.1" 200 -
+2024-05-04 21:01:15,041 INFO: 127.0.0.1 - - [04/May/2024 21:01:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 21:01:15,045 INFO: 127.0.0.1 - - [04/May/2024 21:01:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 21:01:15,050 INFO: 127.0.0.1 - - [04/May/2024 21:01:15] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 21:01:18,478 INFO: 127.0.0.1 - - [04/May/2024 21:01:18] "GET /news HTTP/1.1" 200 -
+2024-05-04 21:01:18,550 INFO: 127.0.0.1 - - [04/May/2024 21:01:18] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 21:01:18,552 INFO: 127.0.0.1 - - [04/May/2024 21:01:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 21:01:26,887 INFO: 127.0.0.1 - - [04/May/2024 21:01:26] "GET / HTTP/1.1" 200 -
+2024-05-04 21:01:38,397 INFO: 127.0.0.1 - - [04/May/2024 21:01:38] "GET / HTTP/1.1" 200 -
+2024-05-04 21:01:51,717 INFO: 127.0.0.1 - - [04/May/2024 21:01:51] "GET / HTTP/1.1" 200 -
+2024-05-04 21:01:51,909 INFO: 127.0.0.1 - - [04/May/2024 21:01:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 21:01:51,911 INFO: 127.0.0.1 - - [04/May/2024 21:01:51] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 21:01:51,923 INFO: 127.0.0.1 - - [04/May/2024 21:01:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 21:02:03,155 INFO: 127.0.0.1 - - [04/May/2024 21:02:03] "GET /news HTTP/1.1" 200 -
+2024-05-04 21:02:03,235 INFO: 127.0.0.1 - - [04/May/2024 21:02:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 21:02:03,236 INFO: 127.0.0.1 - - [04/May/2024 21:02:03] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 21:02:33,011 INFO: 127.0.0.1 - - [04/May/2024 21:02:33] "GET / HTTP/1.1" 200 -
+2024-05-04 21:02:41,408 INFO: 127.0.0.1 - - [04/May/2024 21:02:41] "GET / HTTP/1.1" 200 -
+2024-05-04 21:08:12,875 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-04 21:08:13,019 INFO:  * Restarting with stat
+2024-05-04 21:08:13,943 WARNING:  * Debugger is active!
+2024-05-04 21:08:13,943 INFO:  * Debugger PIN: 102-727-344
+2024-05-04 21:09:45,921 INFO: 127.0.0.1 - - [04/May/2024 21:09:45] "GET /news HTTP/1.1" 200 -
+2024-05-04 21:09:46,093 INFO: 127.0.0.1 - - [04/May/2024 21:09:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 21:09:46,109 INFO: 127.0.0.1 - - [04/May/2024 21:09:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 21:10:37,809 INFO: 127.0.0.1 - - [04/May/2024 21:10:37] "GET / HTTP/1.1" 200 -
+2024-05-04 23:10:00,940 INFO: 127.0.0.1 - - [04/May/2024 23:10:00] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 23:10:00,942 INFO: 127.0.0.1 - - [04/May/2024 23:10:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 23:10:04,516 INFO: 127.0.0.1 - - [04/May/2024 23:10:04] "GET / HTTP/1.1" 200 -
+2024-05-04 23:57:36,287 INFO: 127.0.0.1 - - [04/May/2024 23:57:36] "GET / HTTP/1.1" 200 -
+2024-05-04 23:57:36,492 INFO: 127.0.0.1 - - [04/May/2024 23:57:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-04 23:57:36,507 INFO: 127.0.0.1 - - [04/May/2024 23:57:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-04 23:57:36,570 INFO: 127.0.0.1 - - [04/May/2024 23:57:36] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-04 23:57:39,398 INFO: 127.0.0.1 - - [04/May/2024 23:57:39] "GET / HTTP/1.1" 200 -
+2024-05-05 00:03:57,510 INFO: 127.0.0.1 - - [05/May/2024 00:03:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:04:58,341 INFO: 127.0.0.1 - - [05/May/2024 00:04:58] "GET / HTTP/1.1" 200 -
+2024-05-05 00:04:58,529 INFO: 127.0.0.1 - - [05/May/2024 00:04:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:04:58,529 INFO: 127.0.0.1 - - [05/May/2024 00:04:58] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-05 00:04:59,330 INFO: 127.0.0.1 - - [05/May/2024 00:04:59] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 00:05:02,864 INFO: 127.0.0.1 - - [05/May/2024 00:05:02] "GET / HTTP/1.1" 200 -
+2024-05-05 00:09:55,943 INFO: 127.0.0.1 - - [05/May/2024 00:09:55] "GET / HTTP/1.1" 200 -
+2024-05-05 00:09:56,069 INFO: 127.0.0.1 - - [05/May/2024 00:09:56] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-05 00:09:56,069 INFO: 127.0.0.1 - - [05/May/2024 00:09:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:09:56,603 INFO: 127.0.0.1 - - [05/May/2024 00:09:56] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 00:09:59,839 INFO: 127.0.0.1 - - [05/May/2024 00:09:59] "GET / HTTP/1.1" 200 -
+2024-05-05 00:12:21,114 ERROR: Error: unexpected char '?' at 986
+2024-05-05 00:12:21,114 INFO: 127.0.0.1 - - [05/May/2024 00:12:21] "GET / HTTP/1.1" 200 -
+2024-05-05 00:12:21,443 INFO: 127.0.0.1 - - [05/May/2024 00:12:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:12:53,408 INFO: 127.0.0.1 - - [05/May/2024 00:12:53] "GET / HTTP/1.1" 200 -
+2024-05-05 00:12:53,565 INFO: 127.0.0.1 - - [05/May/2024 00:12:53] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:12:53,565 INFO: 127.0.0.1 - - [05/May/2024 00:12:53] "[33mGET /static/weather-icons/clouds.png HTTP/1.1[0m" 404 -
+2024-05-05 00:12:53,581 INFO: 127.0.0.1 - - [05/May/2024 00:12:53] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 00:12:56,208 INFO: 127.0.0.1 - - [05/May/2024 00:12:56] "GET / HTTP/1.1" 200 -
+2024-05-05 00:13:12,639 ERROR: Error: unexpected char '?' at 986
+2024-05-05 00:13:12,639 INFO: 127.0.0.1 - - [05/May/2024 00:13:12] "GET / HTTP/1.1" 200 -
+2024-05-05 00:13:12,765 INFO: 127.0.0.1 - - [05/May/2024 00:13:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:18:11,821 INFO: 127.0.0.1 - - [05/May/2024 00:18:11] "GET / HTTP/1.1" 200 -
+2024-05-05 00:18:11,978 INFO: 127.0.0.1 - - [05/May/2024 00:18:11] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:18:11,978 INFO: 127.0.0.1 - - [05/May/2024 00:18:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:18:14,558 INFO: 127.0.0.1 - - [05/May/2024 00:18:14] "GET / HTTP/1.1" 200 -
+2024-05-05 00:18:43,018 INFO: 127.0.0.1 - - [05/May/2024 00:18:43] "GET / HTTP/1.1" 200 -
+2024-05-05 00:18:43,136 INFO: 127.0.0.1 - - [05/May/2024 00:18:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:18:43,175 INFO: 127.0.0.1 - - [05/May/2024 00:18:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:18:43,301 INFO: 127.0.0.1 - - [05/May/2024 00:18:43] "GET /static/weather-icons/cloudy.png HTTP/1.1" 200 -
+2024-05-05 00:18:45,975 INFO: 127.0.0.1 - - [05/May/2024 00:18:45] "GET / HTTP/1.1" 200 -
+2024-05-05 00:18:50,314 INFO: 127.0.0.1 - - [05/May/2024 00:18:50] "GET /news HTTP/1.1" 200 -
+2024-05-05 00:18:50,471 INFO: 127.0.0.1 - - [05/May/2024 00:18:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:18:50,471 INFO: 127.0.0.1 - - [05/May/2024 00:18:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:18:53,111 INFO: 127.0.0.1 - - [05/May/2024 00:18:53] "GET / HTTP/1.1" 200 -
+2024-05-05 00:18:55,847 INFO: 127.0.0.1 - - [05/May/2024 00:18:55] "GET / HTTP/1.1" 200 -
+2024-05-05 00:18:56,019 INFO: 127.0.0.1 - - [05/May/2024 00:18:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:18:56,019 INFO: 127.0.0.1 - - [05/May/2024 00:18:56] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:18:56,019 INFO: 127.0.0.1 - - [05/May/2024 00:18:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:18:58,783 INFO: 127.0.0.1 - - [05/May/2024 00:18:58] "GET / HTTP/1.1" 200 -
+2024-05-05 00:23:43,262 INFO: 127.0.0.1 - - [05/May/2024 00:23:43] "GET / HTTP/1.1" 200 -
+2024-05-05 00:23:43,466 INFO: 127.0.0.1 - - [05/May/2024 00:23:43] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:23:43,466 INFO: 127.0.0.1 - - [05/May/2024 00:23:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:23:43,576 INFO: 127.0.0.1 - - [05/May/2024 00:23:43] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 00:23:47,254 INFO: 127.0.0.1 - - [05/May/2024 00:23:47] "GET / HTTP/1.1" 200 -
+2024-05-05 00:24:01,791 INFO: 127.0.0.1 - - [05/May/2024 00:24:01] "GET /news HTTP/1.1" 200 -
+2024-05-05 00:24:01,948 INFO: 127.0.0.1 - - [05/May/2024 00:24:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:24:01,948 INFO: 127.0.0.1 - - [05/May/2024 00:24:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:24:04,046 INFO: 127.0.0.1 - - [05/May/2024 00:24:04] "GET / HTTP/1.1" 200 -
+2024-05-05 00:24:07,034 INFO: 127.0.0.1 - - [05/May/2024 00:24:07] "GET / HTTP/1.1" 200 -
+2024-05-05 00:24:07,175 INFO: 127.0.0.1 - - [05/May/2024 00:24:07] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:24:07,191 INFO: 127.0.0.1 - - [05/May/2024 00:24:07] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:24:07,191 INFO: 127.0.0.1 - - [05/May/2024 00:24:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:24:09,642 INFO: 127.0.0.1 - - [05/May/2024 00:24:09] "GET / HTTP/1.1" 200 -
+2024-05-05 00:31:27,255 INFO: 127.0.0.1 - - [05/May/2024 00:31:27] "GET / HTTP/1.1" 200 -
+2024-05-05 00:31:27,459 INFO: 127.0.0.1 - - [05/May/2024 00:31:27] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:31:27,459 INFO: 127.0.0.1 - - [05/May/2024 00:31:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:31:27,522 INFO: 127.0.0.1 - - [05/May/2024 00:31:27] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 00:31:32,247 INFO: 127.0.0.1 - - [05/May/2024 00:31:32] "GET / HTTP/1.1" 200 -
+2024-05-05 00:31:58,280 INFO: 127.0.0.1 - - [05/May/2024 00:31:58] "GET /news HTTP/1.1" 200 -
+2024-05-05 00:31:58,437 INFO: 127.0.0.1 - - [05/May/2024 00:31:58] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:31:58,453 INFO: 127.0.0.1 - - [05/May/2024 00:31:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:32:01,060 INFO: 127.0.0.1 - - [05/May/2024 00:32:01] "GET / HTTP/1.1" 200 -
+2024-05-05 00:32:04,236 INFO: 127.0.0.1 - - [05/May/2024 00:32:04] "GET / HTTP/1.1" 200 -
+2024-05-05 00:32:04,378 INFO: 127.0.0.1 - - [05/May/2024 00:32:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:32:04,409 INFO: 127.0.0.1 - - [05/May/2024 00:32:04] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:32:04,409 INFO: 127.0.0.1 - - [05/May/2024 00:32:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:32:07,583 INFO: 127.0.0.1 - - [05/May/2024 00:32:07] "GET / HTTP/1.1" 200 -
+2024-05-05 00:52:14,649 INFO: 127.0.0.1 - - [05/May/2024 00:52:14] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:52:15,165 INFO: 127.0.0.1 - - [05/May/2024 00:52:15] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 00:52:15,262 INFO: 127.0.0.1 - - [05/May/2024 00:52:15] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 00:52:23,080 INFO: 127.0.0.1 - - [05/May/2024 00:52:23] "GET / HTTP/1.1" 200 -
+2024-05-05 00:52:23,267 INFO: 127.0.0.1 - - [05/May/2024 00:52:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:52:23,294 INFO: 127.0.0.1 - - [05/May/2024 00:52:23] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:52:23,294 INFO: 127.0.0.1 - - [05/May/2024 00:52:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:52:23,464 INFO: 127.0.0.1 - - [05/May/2024 00:52:23] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 00:52:36,884 INFO: 127.0.0.1 - - [05/May/2024 00:52:36] "GET /news HTTP/1.1" 200 -
+2024-05-05 00:52:37,009 INFO: 127.0.0.1 - - [05/May/2024 00:52:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:52:37,041 INFO: 127.0.0.1 - - [05/May/2024 00:52:37] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:52:41,109 INFO: 127.0.0.1 - - [05/May/2024 00:52:41] "GET / HTTP/1.1" 200 -
+2024-05-05 00:52:41,297 INFO: 127.0.0.1 - - [05/May/2024 00:52:41] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:52:41,297 INFO: 127.0.0.1 - - [05/May/2024 00:52:41] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:52:41,297 INFO: 127.0.0.1 - - [05/May/2024 00:52:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:58:03,010 INFO: 127.0.0.1 - - [05/May/2024 00:58:03] "GET / HTTP/1.1" 200 -
+2024-05-05 00:58:03,214 INFO: 127.0.0.1 - - [05/May/2024 00:58:03] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 00:58:03,214 INFO: 127.0.0.1 - - [05/May/2024 00:58:03] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 00:58:03,214 INFO: 127.0.0.1 - - [05/May/2024 00:58:03] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 00:58:03,261 INFO: 127.0.0.1 - - [05/May/2024 00:58:03] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 00:58:03,904 INFO: 127.0.0.1 - - [05/May/2024 00:58:03] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:01:45,670 INFO: 127.0.0.1 - - [05/May/2024 01:01:45] "GET / HTTP/1.1" 200 -
+2024-05-05 01:01:45,932 INFO: 127.0.0.1 - - [05/May/2024 01:01:45] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 01:01:45,956 INFO: 127.0.0.1 - - [05/May/2024 01:01:45] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 01:01:46,130 INFO: 127.0.0.1 - - [05/May/2024 01:01:46] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 01:01:46,257 INFO: 127.0.0.1 - - [05/May/2024 01:01:46] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 01:01:48,610 INFO: 127.0.0.1 - - [05/May/2024 01:01:48] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:02:04,229 INFO: 127.0.0.1 - - [05/May/2024 01:02:04] "GET /news HTTP/1.1" 200 -
+2024-05-05 01:02:04,386 INFO: 127.0.0.1 - - [05/May/2024 01:02:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 01:02:04,386 INFO: 127.0.0.1 - - [05/May/2024 01:02:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 01:02:04,465 INFO: 127.0.0.1 - - [05/May/2024 01:02:04] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:02:09,052 INFO: 127.0.0.1 - - [05/May/2024 01:02:09] "GET / HTTP/1.1" 200 -
+2024-05-05 01:02:09,209 INFO: 127.0.0.1 - - [05/May/2024 01:02:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 01:02:09,209 INFO: 127.0.0.1 - - [05/May/2024 01:02:09] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 01:02:09,209 INFO: 127.0.0.1 - - [05/May/2024 01:02:09] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 01:02:09,319 INFO: 127.0.0.1 - - [05/May/2024 01:02:09] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:04:32,357 INFO: 127.0.0.1 - - [05/May/2024 01:04:32] "GET / HTTP/1.1" 200 -
+2024-05-05 01:04:32,531 INFO: 127.0.0.1 - - [05/May/2024 01:04:32] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 01:04:32,562 INFO: 127.0.0.1 - - [05/May/2024 01:04:32] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 01:04:32,562 INFO: 127.0.0.1 - - [05/May/2024 01:04:32] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 01:04:32,891 INFO: 127.0.0.1 - - [05/May/2024 01:04:32] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:09:33,145 INFO: 127.0.0.1 - - [05/May/2024 01:09:33] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:11:03,685 INFO: 127.0.0.1 - - [05/May/2024 01:11:03] "GET / HTTP/1.1" 200 -
+2024-05-05 01:11:03,864 INFO: 127.0.0.1 - - [05/May/2024 01:11:03] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 01:11:03,874 INFO: 127.0.0.1 - - [05/May/2024 01:11:03] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 01:11:04,605 INFO: 127.0.0.1 - - [05/May/2024 01:11:04] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 01:11:04,658 INFO: 127.0.0.1 - - [05/May/2024 01:11:04] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 01:11:05,855 INFO: 127.0.0.1 - - [05/May/2024 01:11:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:11:10,402 INFO: 127.0.0.1 - - [05/May/2024 01:11:10] "GET /news HTTP/1.1" 200 -
+2024-05-05 01:11:10,567 INFO: 127.0.0.1 - - [05/May/2024 01:11:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 01:11:10,572 INFO: 127.0.0.1 - - [05/May/2024 01:11:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 01:11:10,664 INFO: 127.0.0.1 - - [05/May/2024 01:11:10] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:11:17,559 INFO: 127.0.0.1 - - [05/May/2024 01:11:17] "GET / HTTP/1.1" 200 -
+2024-05-05 01:11:17,714 INFO: 127.0.0.1 - - [05/May/2024 01:11:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 01:11:17,714 INFO: 127.0.0.1 - - [05/May/2024 01:11:17] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 01:11:17,736 INFO: 127.0.0.1 - - [05/May/2024 01:11:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 01:11:17,959 INFO: 127.0.0.1 - - [05/May/2024 01:11:17] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 01:16:17,782 INFO: 127.0.0.1 - - [05/May/2024 01:16:17] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:01:04,185 INFO: 127.0.0.1 - - [05/May/2024 17:01:04] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 17:01:04,243 INFO: 127.0.0.1 - - [05/May/2024 17:01:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 17:01:04,274 INFO: 127.0.0.1 - - [05/May/2024 17:01:04] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 17:01:04,388 INFO: 127.0.0.1 - - [05/May/2024 17:01:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 17:01:04,615 INFO: 127.0.0.1 - - [05/May/2024 17:01:04] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:06:05,082 INFO: 127.0.0.1 - - [05/May/2024 17:06:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:11:05,100 INFO: 127.0.0.1 - - [05/May/2024 17:11:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:16:05,092 INFO: 127.0.0.1 - - [05/May/2024 17:16:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:21:05,090 INFO: 127.0.0.1 - - [05/May/2024 17:21:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:26:05,086 INFO: 127.0.0.1 - - [05/May/2024 17:26:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 17:31:05,095 INFO: 127.0.0.1 - - [05/May/2024 17:31:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:27:35,240 INFO: 127.0.0.1 - - [05/May/2024 18:27:35] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:31:05,448 INFO: 127.0.0.1 - - [05/May/2024 18:31:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:36:05,069 INFO: 127.0.0.1 - - [05/May/2024 18:36:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:41:05,057 INFO: 127.0.0.1 - - [05/May/2024 18:41:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:44:59,091 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 18:45:00,205 INFO:  * Restarting with stat
+2024-05-05 18:45:02,857 WARNING:  * Debugger is active!
+2024-05-05 18:45:02,873 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 18:46:05,378 INFO: 127.0.0.1 - - [05/May/2024 18:46:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:51:05,058 INFO: 127.0.0.1 - - [05/May/2024 18:51:05] "[33mGET /fetch-weather-data HTTP/1.1[0m" 404 -
+2024-05-05 18:51:15,195 INFO: 127.0.0.1 - - [05/May/2024 18:51:15] "GET / HTTP/1.1" 200 -
+2024-05-05 18:51:15,619 INFO: 127.0.0.1 - - [05/May/2024 18:51:15] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 18:51:15,633 INFO: 127.0.0.1 - - [05/May/2024 18:51:15] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:51:15,731 INFO: 127.0.0.1 - - [05/May/2024 18:51:15] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 18:51:15,881 INFO: 127.0.0.1 - - [05/May/2024 18:51:15] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 18:51:17,152 INFO: 127.0.0.1 - - [05/May/2024 18:51:17] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+2024-05-05 18:51:26,112 INFO: 127.0.0.1 - - [05/May/2024 18:51:26] "[35m[1mGET /predict HTTP/1.1[0m" 500 -
+2024-05-05 18:51:26,303 INFO: 127.0.0.1 - - [05/May/2024 18:51:26] "GET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-05-05 18:51:26,303 INFO: 127.0.0.1 - - [05/May/2024 18:51:26] "GET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-05-05 18:51:26,338 INFO: 127.0.0.1 - - [05/May/2024 18:51:26] "GET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-05-05 18:51:26,429 INFO: 127.0.0.1 - - [05/May/2024 18:51:26] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 18:54:48,405 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 18:54:48,651 INFO:  * Restarting with stat
+2024-05-05 18:54:49,859 WARNING:  * Debugger is active!
+2024-05-05 18:54:49,872 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 18:54:54,738 INFO: 127.0.0.1 - - [05/May/2024 18:54:54] "GET / HTTP/1.1" 200 -
+2024-05-05 18:54:54,953 INFO: 127.0.0.1 - - [05/May/2024 18:54:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:54:54,954 INFO: 127.0.0.1 - - [05/May/2024 18:54:54] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 18:54:55,044 INFO: 127.0.0.1 - - [05/May/2024 18:54:55] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 18:54:55,074 INFO: 127.0.0.1 - - [05/May/2024 18:54:55] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 18:54:55,143 INFO: 127.0.0.1 - - [05/May/2024 18:54:55] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:54:59,331 INFO: 127.0.0.1 - - [05/May/2024 18:54:59] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:54:59,460 INFO: 127.0.0.1 - - [05/May/2024 18:54:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:54:59,464 INFO: 127.0.0.1 - - [05/May/2024 18:54:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 18:54:59,507 INFO: 127.0.0.1 - - [05/May/2024 18:54:59] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:55:06,388 INFO: 127.0.0.1 - - [05/May/2024 18:55:06] "GET / HTTP/1.1" 200 -
+2024-05-05 18:55:06,489 INFO: 127.0.0.1 - - [05/May/2024 18:55:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:55:06,490 INFO: 127.0.0.1 - - [05/May/2024 18:55:06] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 18:55:06,494 INFO: 127.0.0.1 - - [05/May/2024 18:55:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 18:55:06,545 INFO: 127.0.0.1 - - [05/May/2024 18:55:06] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:58:07,083 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 18:58:07,192 INFO:  * Restarting with stat
+2024-05-05 18:58:08,192 WARNING:  * Debugger is active!
+2024-05-05 18:58:08,192 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 18:58:56,522 INFO: 127.0.0.1 - - [05/May/2024 18:58:56] "GET / HTTP/1.1" 200 -
+2024-05-05 18:58:56,723 INFO: 127.0.0.1 - - [05/May/2024 18:58:56] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 18:58:56,738 INFO: 127.0.0.1 - - [05/May/2024 18:58:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 18:58:56,738 INFO: 127.0.0.1 - - [05/May/2024 18:58:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:58:56,818 INFO: 127.0.0.1 - - [05/May/2024 18:58:56] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 18:58:57,016 INFO: 127.0.0.1 - - [05/May/2024 18:58:57] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:59:00,450 INFO: 127.0.0.1 - - [05/May/2024 18:59:00] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:59:00,543 INFO: 127.0.0.1 - - [05/May/2024 18:59:00] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:59:00,544 INFO: 127.0.0.1 - - [05/May/2024 18:59:00] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 18:59:00,610 INFO: 127.0.0.1 - - [05/May/2024 18:59:00] "GET /predict HTTP/1.1" 200 -
+2024-05-05 18:59:09,886 INFO: 127.0.0.1 - - [05/May/2024 18:59:09] "GET / HTTP/1.1" 200 -
+2024-05-05 18:59:09,998 INFO: 127.0.0.1 - - [05/May/2024 18:59:09] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 18:59:10,000 INFO: 127.0.0.1 - - [05/May/2024 18:59:10] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 18:59:10,004 INFO: 127.0.0.1 - - [05/May/2024 18:59:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 18:59:10,034 INFO: 127.0.0.1 - - [05/May/2024 18:59:10] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:04:10,020 INFO: 127.0.0.1 - - [05/May/2024 19:04:10] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:09:10,033 INFO: 127.0.0.1 - - [05/May/2024 19:09:10] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:14:10,068 INFO: 127.0.0.1 - - [05/May/2024 19:14:10] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:16:09,911 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 19:16:10,146 INFO:  * Restarting with stat
+2024-05-05 19:16:11,294 WARNING:  * Debugger is active!
+2024-05-05 19:16:11,303 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 19:16:17,053 INFO: 127.0.0.1 - - [05/May/2024 19:16:17] "GET / HTTP/1.1" 200 -
+2024-05-05 19:16:17,180 INFO: 127.0.0.1 - - [05/May/2024 19:16:17] "[33mGET /static/weather-icons/unknown.png HTTP/1.1[0m" 404 -
+2024-05-05 19:16:17,257 INFO: 127.0.0.1 - - [05/May/2024 19:16:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:16:17,259 INFO: 127.0.0.1 - - [05/May/2024 19:16:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:16:17,280 INFO: 127.0.0.1 - - [05/May/2024 19:16:17] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:16:17,372 INFO: 127.0.0.1 - - [05/May/2024 19:16:17] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:16:34,036 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 19:16:34,139 INFO:  * Restarting with stat
+2024-05-05 19:16:35,001 WARNING:  * Debugger is active!
+2024-05-05 19:16:35,009 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 19:16:38,885 INFO: 127.0.0.1 - - [05/May/2024 19:16:38] "GET / HTTP/1.1" 200 -
+2024-05-05 19:16:39,051 INFO: 127.0.0.1 - - [05/May/2024 19:16:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:16:39,074 INFO: 127.0.0.1 - - [05/May/2024 19:16:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:16:39,074 INFO: 127.0.0.1 - - [05/May/2024 19:16:39] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:16:39,193 INFO: 127.0.0.1 - - [05/May/2024 19:16:39] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:17:40,357 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 19:17:40,468 INFO:  * Restarting with stat
+2024-05-05 19:17:41,399 WARNING:  * Debugger is active!
+2024-05-05 19:17:41,413 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 19:17:46,364 INFO: 127.0.0.1 - - [05/May/2024 19:17:46] "GET / HTTP/1.1" 200 -
+2024-05-05 19:17:46,547 INFO: 127.0.0.1 - - [05/May/2024 19:17:46] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:17:46,572 INFO: 127.0.0.1 - - [05/May/2024 19:17:46] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:17:46,614 INFO: 127.0.0.1 - - [05/May/2024 19:17:46] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:17:46,704 INFO: 127.0.0.1 - - [05/May/2024 19:17:46] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:17:47,057 INFO: 127.0.0.1 - - [05/May/2024 19:17:47] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:22:47,060 INFO: 127.0.0.1 - - [05/May/2024 19:22:47] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:26:03,146 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 19:26:03,272 INFO:  * Restarting with stat
+2024-05-05 19:26:04,072 WARNING:  * Debugger is active!
+2024-05-05 19:26:04,072 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 19:27:47,082 INFO: 127.0.0.1 - - [05/May/2024 19:27:47] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:32:47,089 INFO: 127.0.0.1 - - [05/May/2024 19:32:47] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:34:32,998 INFO: 127.0.0.1 - - [05/May/2024 19:34:32] "GET / HTTP/1.1" 200 -
+2024-05-05 19:34:33,249 INFO: 127.0.0.1 - - [05/May/2024 19:34:33] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:34:33,249 INFO: 127.0.0.1 - - [05/May/2024 19:34:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:34:33,297 INFO: 127.0.0.1 - - [05/May/2024 19:34:33] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 19:34:33,437 INFO: 127.0.0.1 - - [05/May/2024 19:34:33] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:34:33,864 INFO: 127.0.0.1 - - [05/May/2024 19:34:33] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:34:44,547 INFO: 127.0.0.1 - - [05/May/2024 19:34:44] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:34:44,643 INFO: 127.0.0.1 - - [05/May/2024 19:34:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:34:44,643 INFO: 127.0.0.1 - - [05/May/2024 19:34:44] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:34:45,525 INFO: 127.0.0.1 - - [05/May/2024 19:34:45] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:34:51,528 INFO: 127.0.0.1 - - [05/May/2024 19:34:51] "GET /news HTTP/1.1" 200 -
+2024-05-05 19:34:51,625 INFO: 127.0.0.1 - - [05/May/2024 19:34:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:34:51,626 INFO: 127.0.0.1 - - [05/May/2024 19:34:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:34:51,674 INFO: 127.0.0.1 - - [05/May/2024 19:34:51] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:34:54,090 INFO: 127.0.0.1 - - [05/May/2024 19:34:54] "GET / HTTP/1.1" 200 -
+2024-05-05 19:34:54,180 INFO: 127.0.0.1 - - [05/May/2024 19:34:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:34:54,181 INFO: 127.0.0.1 - - [05/May/2024 19:34:54] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:34:54,203 INFO: 127.0.0.1 - - [05/May/2024 19:34:54] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:34:54,232 INFO: 127.0.0.1 - - [05/May/2024 19:34:54] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:39:55,059 INFO: 127.0.0.1 - - [05/May/2024 19:39:55] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:42:30,421 INFO: 127.0.0.1 - - [05/May/2024 19:42:30] "GET / HTTP/1.1" 200 -
+2024-05-05 19:42:30,510 INFO: 127.0.0.1 - - [05/May/2024 19:42:30] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:42:30,519 INFO: 127.0.0.1 - - [05/May/2024 19:42:30] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:42:30,608 INFO: 127.0.0.1 - - [05/May/2024 19:42:30] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 19:42:30,646 INFO: 127.0.0.1 - - [05/May/2024 19:42:30] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:42:30,869 INFO: 127.0.0.1 - - [05/May/2024 19:42:30] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:42:36,470 INFO: 127.0.0.1 - - [05/May/2024 19:42:36] "GET /news HTTP/1.1" 200 -
+2024-05-05 19:42:36,574 INFO: 127.0.0.1 - - [05/May/2024 19:42:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:42:36,575 INFO: 127.0.0.1 - - [05/May/2024 19:42:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:42:36,638 INFO: 127.0.0.1 - - [05/May/2024 19:42:36] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:42:38,949 INFO: 127.0.0.1 - - [05/May/2024 19:42:38] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:42:39,045 INFO: 127.0.0.1 - - [05/May/2024 19:42:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:42:39,046 INFO: 127.0.0.1 - - [05/May/2024 19:42:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:42:39,100 INFO: 127.0.0.1 - - [05/May/2024 19:42:39] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:42:59,546 INFO: 127.0.0.1 - - [05/May/2024 19:42:59] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:42:59,627 INFO: 127.0.0.1 - - [05/May/2024 19:42:59] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 19:42:59,641 INFO: 127.0.0.1 - - [05/May/2024 19:42:59] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:42:59,699 INFO: 127.0.0.1 - - [05/May/2024 19:42:59] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:01,614 INFO: 127.0.0.1 - - [05/May/2024 19:43:01] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:01,687 INFO: 127.0.0.1 - - [05/May/2024 19:43:01] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:43:01,689 INFO: 127.0.0.1 - - [05/May/2024 19:43:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:43:01,730 INFO: 127.0.0.1 - - [05/May/2024 19:43:01] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:06,702 INFO: 127.0.0.1 - - [05/May/2024 19:43:06] "GET / HTTP/1.1" 200 -
+2024-05-05 19:43:06,779 INFO: 127.0.0.1 - - [05/May/2024 19:43:06] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:43:06,779 INFO: 127.0.0.1 - - [05/May/2024 19:43:06] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:43:06,779 INFO: 127.0.0.1 - - [05/May/2024 19:43:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:43:06,810 INFO: 127.0.0.1 - - [05/May/2024 19:43:06] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:43:06,838 INFO: 127.0.0.1 - - [05/May/2024 19:43:06] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:11,950 INFO: 127.0.0.1 - - [05/May/2024 19:43:11] "GET /news HTTP/1.1" 200 -
+2024-05-05 19:43:12,082 INFO: 127.0.0.1 - - [05/May/2024 19:43:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:43:12,083 INFO: 127.0.0.1 - - [05/May/2024 19:43:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:43:12,133 INFO: 127.0.0.1 - - [05/May/2024 19:43:12] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:13,780 INFO: 127.0.0.1 - - [05/May/2024 19:43:13] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:13,868 INFO: 127.0.0.1 - - [05/May/2024 19:43:13] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:43:13,868 INFO: 127.0.0.1 - - [05/May/2024 19:43:13] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:43:13,913 INFO: 127.0.0.1 - - [05/May/2024 19:43:13] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:19,067 INFO: 127.0.0.1 - - [05/May/2024 19:43:19] "GET /news HTTP/1.1" 200 -
+2024-05-05 19:43:19,152 INFO: 127.0.0.1 - - [05/May/2024 19:43:19] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:43:19,155 INFO: 127.0.0.1 - - [05/May/2024 19:43:19] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:43:19,193 INFO: 127.0.0.1 - - [05/May/2024 19:43:19] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:43:24,280 INFO: 127.0.0.1 - - [05/May/2024 19:43:24] "GET / HTTP/1.1" 200 -
+2024-05-05 19:43:24,345 INFO: 127.0.0.1 - - [05/May/2024 19:43:24] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:43:24,364 INFO: 127.0.0.1 - - [05/May/2024 19:43:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:43:24,364 INFO: 127.0.0.1 - - [05/May/2024 19:43:24] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:43:24,391 INFO: 127.0.0.1 - - [05/May/2024 19:43:24] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:45:08,136 INFO: 127.0.0.1 - - [05/May/2024 19:45:08] "GET / HTTP/1.1" 200 -
+2024-05-05 19:45:08,234 INFO: 127.0.0.1 - - [05/May/2024 19:45:08] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:45:08,234 INFO: 127.0.0.1 - - [05/May/2024 19:45:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:45:08,271 INFO: 127.0.0.1 - - [05/May/2024 19:45:08] "GET /static/styles.css HTTP/1.1" 200 -
+2024-05-05 19:45:08,311 INFO: 127.0.0.1 - - [05/May/2024 19:45:08] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:45:08,345 INFO: 127.0.0.1 - - [05/May/2024 19:45:08] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:45:12,373 INFO: 127.0.0.1 - - [05/May/2024 19:45:12] "GET /news HTTP/1.1" 200 -
+2024-05-05 19:45:12,476 INFO: 127.0.0.1 - - [05/May/2024 19:45:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:45:12,477 INFO: 127.0.0.1 - - [05/May/2024 19:45:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:45:12,528 INFO: 127.0.0.1 - - [05/May/2024 19:45:12] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:45:14,239 INFO: 127.0.0.1 - - [05/May/2024 19:45:14] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:45:14,319 INFO: 127.0.0.1 - - [05/May/2024 19:45:14] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:45:14,323 INFO: 127.0.0.1 - - [05/May/2024 19:45:14] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:45:14,375 INFO: 127.0.0.1 - - [05/May/2024 19:45:14] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:45:21,140 INFO: 127.0.0.1 - - [05/May/2024 19:45:21] "GET / HTTP/1.1" 200 -
+2024-05-05 19:45:21,223 INFO: 127.0.0.1 - - [05/May/2024 19:45:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:45:21,236 INFO: 127.0.0.1 - - [05/May/2024 19:45:21] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:45:21,239 INFO: 127.0.0.1 - - [05/May/2024 19:45:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:45:21,330 INFO: 127.0.0.1 - - [05/May/2024 19:45:21] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:48:23,310 INFO: 127.0.0.1 - - [05/May/2024 19:48:23] "GET / HTTP/1.1" 200 -
+2024-05-05 19:48:23,413 INFO: 127.0.0.1 - - [05/May/2024 19:48:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:48:23,417 INFO: 127.0.0.1 - - [05/May/2024 19:48:23] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:48:23,421 INFO: 127.0.0.1 - - [05/May/2024 19:48:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:48:23,467 INFO: 127.0.0.1 - - [05/May/2024 19:48:23] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 19:48:23,620 INFO: 127.0.0.1 - - [05/May/2024 19:48:23] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:48:31,363 INFO: 127.0.0.1 - - [05/May/2024 19:48:31] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:48:31,444 INFO: 127.0.0.1 - - [05/May/2024 19:48:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:48:31,448 INFO: 127.0.0.1 - - [05/May/2024 19:48:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:48:31,515 INFO: 127.0.0.1 - - [05/May/2024 19:48:31] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:48:39,904 INFO: 127.0.0.1 - - [05/May/2024 19:48:39] "GET /news HTTP/1.1" 200 -
+2024-05-05 19:48:39,971 INFO: 127.0.0.1 - - [05/May/2024 19:48:39] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:48:39,971 INFO: 127.0.0.1 - - [05/May/2024 19:48:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:48:40,029 INFO: 127.0.0.1 - - [05/May/2024 19:48:40] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:48:43,557 INFO: 127.0.0.1 - - [05/May/2024 19:48:43] "GET / HTTP/1.1" 200 -
+2024-05-05 19:48:43,650 INFO: 127.0.0.1 - - [05/May/2024 19:48:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:48:43,656 INFO: 127.0.0.1 - - [05/May/2024 19:48:43] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 19:48:43,661 INFO: 127.0.0.1 - - [05/May/2024 19:48:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:48:43,692 INFO: 127.0.0.1 - - [05/May/2024 19:48:43] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:53:44,049 INFO: 127.0.0.1 - - [05/May/2024 19:53:44] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:56:17,515 INFO: 127.0.0.1 - - [05/May/2024 19:56:17] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:56:17,597 INFO: 127.0.0.1 - - [05/May/2024 19:56:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:56:17,612 INFO: 127.0.0.1 - - [05/May/2024 19:56:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:56:17,681 INFO: 127.0.0.1 - - [05/May/2024 19:56:17] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:56:35,111 INFO: 127.0.0.1 - - [05/May/2024 19:56:35] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-05-05 19:56:35,212 INFO: 127.0.0.1 - - [05/May/2024 19:56:35] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-05 19:56:35,212 INFO: 127.0.0.1 - - [05/May/2024 19:56:35] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-05 19:56:35,238 INFO: 127.0.0.1 - - [05/May/2024 19:56:35] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 19:56:35,295 INFO: 127.0.0.1 - - [05/May/2024 19:56:35] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 19:56:51,038 INFO: 127.0.0.1 - - [05/May/2024 19:56:51] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:56:51,134 INFO: 127.0.0.1 - - [05/May/2024 19:56:51] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 19:56:51,135 INFO: 127.0.0.1 - - [05/May/2024 19:56:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 19:56:51,187 INFO: 127.0.0.1 - - [05/May/2024 19:56:51] "GET /predict HTTP/1.1" 200 -
+2024-05-05 19:57:18,105 INFO: 127.0.0.1 - - [05/May/2024 19:57:18] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-05-05 19:57:18,201 INFO: 127.0.0.1 - - [05/May/2024 19:57:18] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-05 19:57:18,205 INFO: 127.0.0.1 - - [05/May/2024 19:57:18] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-05 19:57:18,222 INFO: 127.0.0.1 - - [05/May/2024 19:57:18] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 20:06:14,432 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 20:06:15,091 INFO:  * Restarting with stat
+2024-05-05 20:06:30,120 WARNING:  * Debugger is active!
+2024-05-05 20:06:30,136 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 20:06:57,863 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 20:06:58,284 INFO:  * Restarting with stat
+2024-05-05 20:09:13,319 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-05 20:09:13,319 INFO: [33mPress CTRL+C to quit[0m
+2024-05-05 20:09:13,319 INFO:  * Restarting with stat
+2024-05-05 20:09:15,938 WARNING:  * Debugger is active!
+2024-05-05 20:09:15,954 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 20:09:49,376 INFO: 127.0.0.1 - - [05/May/2024 20:09:49] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-05-05 20:09:50,983 INFO: 127.0.0.1 - - [05/May/2024 20:09:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-05 20:09:50,983 INFO: 127.0.0.1 - - [05/May/2024 20:09:50] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-05 20:09:51,167 INFO: 127.0.0.1 - - [05/May/2024 20:09:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 20:09:51,249 INFO: 127.0.0.1 - - [05/May/2024 20:09:51] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 20:10:30,803 INFO: 127.0.0.1 - - [05/May/2024 20:10:30] "GET / HTTP/1.1" 200 -
+2024-05-05 20:10:31,068 INFO: 127.0.0.1 - - [05/May/2024 20:10:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:10:31,146 INFO: 127.0.0.1 - - [05/May/2024 20:10:31] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 20:10:31,148 INFO: 127.0.0.1 - - [05/May/2024 20:10:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:10:31,199 INFO: 127.0.0.1 - - [05/May/2024 20:10:31] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 20:10:32,623 INFO: 127.0.0.1 - - [05/May/2024 20:10:32] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:10:33,628 INFO: 127.0.0.1 - - [05/May/2024 20:10:33] "GET / HTTP/1.1" 200 -
+2024-05-05 20:10:37,269 INFO: 127.0.0.1 - - [05/May/2024 20:10:37] "GET /news HTTP/1.1" 200 -
+2024-05-05 20:10:37,363 INFO: 127.0.0.1 - - [05/May/2024 20:10:37] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:10:37,366 INFO: 127.0.0.1 - - [05/May/2024 20:10:37] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:10:37,421 INFO: 127.0.0.1 - - [05/May/2024 20:10:37] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:10:38,839 INFO: 127.0.0.1 - - [05/May/2024 20:10:38] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:10:38,920 INFO: 127.0.0.1 - - [05/May/2024 20:10:38] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:10:38,924 INFO: 127.0.0.1 - - [05/May/2024 20:10:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:10:38,983 INFO: 127.0.0.1 - - [05/May/2024 20:10:38] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:10:53,273 INFO: 127.0.0.1 - - [05/May/2024 20:10:53] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -
+2024-05-05 20:10:53,392 INFO: 127.0.0.1 - - [05/May/2024 20:10:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-05-05 20:10:53,393 INFO: 127.0.0.1 - - [05/May/2024 20:10:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-05-05 20:10:53,413 INFO: 127.0.0.1 - - [05/May/2024 20:10:53] "[36mGET /predict?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-05-05 20:11:40,016 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 20:11:41,290 INFO:  * Restarting with stat
+2024-05-05 20:11:49,501 WARNING:  * Debugger is active!
+2024-05-05 20:11:49,501 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 20:11:49,891 INFO: 127.0.0.1 - - [05/May/2024 20:11:49] "POST /predict HTTP/1.1" 200 -
+2024-05-05 20:11:50,107 INFO: 127.0.0.1 - - [05/May/2024 20:11:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:11:50,109 INFO: 127.0.0.1 - - [05/May/2024 20:11:50] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:11:50,206 INFO: 127.0.0.1 - - [05/May/2024 20:11:50] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:12:04,811 INFO: 127.0.0.1 - - [05/May/2024 20:12:04] "POST /predict HTTP/1.1" 200 -
+2024-05-05 20:12:04,902 INFO: 127.0.0.1 - - [05/May/2024 20:12:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:12:04,904 INFO: 127.0.0.1 - - [05/May/2024 20:12:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:12:04,959 INFO: 127.0.0.1 - - [05/May/2024 20:12:04] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:12:27,716 INFO: 127.0.0.1 - - [05/May/2024 20:12:27] "GET /news HTTP/1.1" 200 -
+2024-05-05 20:12:27,818 INFO: 127.0.0.1 - - [05/May/2024 20:12:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:12:27,818 INFO: 127.0.0.1 - - [05/May/2024 20:12:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:12:27,869 INFO: 127.0.0.1 - - [05/May/2024 20:12:27] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:12:43,864 INFO: 127.0.0.1 - - [05/May/2024 20:12:43] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:12:43,961 INFO: 127.0.0.1 - - [05/May/2024 20:12:43] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:12:43,970 INFO: 127.0.0.1 - - [05/May/2024 20:12:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:12:44,015 INFO: 127.0.0.1 - - [05/May/2024 20:12:44] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:12:56,973 INFO: 127.0.0.1 - - [05/May/2024 20:12:56] "POST /predict HTTP/1.1" 200 -
+2024-05-05 20:12:57,054 INFO: 127.0.0.1 - - [05/May/2024 20:12:57] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:12:57,056 INFO: 127.0.0.1 - - [05/May/2024 20:12:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:12:57,104 INFO: 127.0.0.1 - - [05/May/2024 20:12:57] "GET /predict HTTP/1.1" 200 -
+2024-05-05 20:13:21,628 INFO: 127.0.0.1 - - [05/May/2024 20:13:21] "POST /predict HTTP/1.1" 200 -
+2024-05-05 20:13:21,722 INFO: 127.0.0.1 - - [05/May/2024 20:13:21] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 20:13:21,725 INFO: 127.0.0.1 - - [05/May/2024 20:13:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 20:13:21,751 INFO: 127.0.0.1 - - [05/May/2024 20:13:21] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:18:33,655 INFO: 127.0.0.1 - - [05/May/2024 21:18:33] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:18:42,351 INFO: 127.0.0.1 - - [05/May/2024 21:18:42] "GET / HTTP/1.1" 200 -
+2024-05-05 21:18:42,635 INFO: 127.0.0.1 - - [05/May/2024 21:18:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:18:42,650 INFO: 127.0.0.1 - - [05/May/2024 21:18:42] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 21:18:42,652 INFO: 127.0.0.1 - - [05/May/2024 21:18:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:18:42,733 INFO: 127.0.0.1 - - [05/May/2024 21:18:42] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 21:18:43,054 INFO: 127.0.0.1 - - [05/May/2024 21:18:43] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:23:37,726 INFO: 127.0.0.1 - - [05/May/2024 21:23:37] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:24:54,660 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 21:24:56,289 INFO:  * Restarting with stat
+2024-05-05 21:25:02,396 WARNING:  * Debugger is active!
+2024-05-05 21:25:02,412 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 21:25:44,443 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 21:25:44,843 INFO:  * Restarting with stat
+2024-05-05 21:25:48,582 WARNING:  * Debugger is active!
+2024-05-05 21:25:48,582 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 21:28:37,737 INFO: 127.0.0.1 - - [05/May/2024 21:28:37] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:33:11,818 INFO: 127.0.0.1 - - [05/May/2024 21:33:11] "GET / HTTP/1.1" 200 -
+2024-05-05 21:33:12,365 INFO: 127.0.0.1 - - [05/May/2024 21:33:12] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:33:12,374 INFO: 127.0.0.1 - - [05/May/2024 21:33:12] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 21:33:12,531 INFO: 127.0.0.1 - - [05/May/2024 21:33:12] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 21:33:12,799 INFO: 127.0.0.1 - - [05/May/2024 21:33:12] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-05 21:33:12,922 INFO: 127.0.0.1 - - [05/May/2024 21:33:12] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:34:04,262 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-05 21:34:04,264 INFO: [33mPress CTRL+C to quit[0m
+2024-05-05 21:34:04,264 INFO:  * Restarting with stat
+2024-05-05 21:34:07,097 WARNING:  * Debugger is active!
+2024-05-05 21:34:07,097 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 21:34:22,423 INFO: 127.0.0.1 - - [05/May/2024 21:34:22] "GET / HTTP/1.1" 200 -
+2024-05-05 21:34:22,680 INFO: 127.0.0.1 - - [05/May/2024 21:34:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:34:22,750 INFO: 127.0.0.1 - - [05/May/2024 21:34:22] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 21:34:22,770 INFO: 127.0.0.1 - - [05/May/2024 21:34:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:34:22,806 INFO: 127.0.0.1 - - [05/May/2024 21:34:22] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 21:34:23,016 INFO: 127.0.0.1 - - [05/May/2024 21:34:23] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:34:36,023 INFO: 127.0.0.1 - - [05/May/2024 21:34:36] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:34:36,114 INFO: 127.0.0.1 - - [05/May/2024 21:34:36] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:34:36,126 INFO: 127.0.0.1 - - [05/May/2024 21:34:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:34:37,918 INFO: 127.0.0.1 - - [05/May/2024 21:34:37] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:34:48,347 INFO: 127.0.0.1 - - [05/May/2024 21:34:48] "POST /predict HTTP/1.1" 200 -
+2024-05-05 21:34:48,449 INFO: 127.0.0.1 - - [05/May/2024 21:34:48] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:34:48,453 INFO: 127.0.0.1 - - [05/May/2024 21:34:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:34:48,513 INFO: 127.0.0.1 - - [05/May/2024 21:34:48] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:37:23,347 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 21:37:23,960 INFO:  * Restarting with stat
+2024-05-05 21:39:04,745 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-05-05 21:39:04,745 INFO: [33mPress CTRL+C to quit[0m
+2024-05-05 21:39:04,745 INFO:  * Restarting with stat
+2024-05-05 21:39:07,368 WARNING:  * Debugger is active!
+2024-05-05 21:39:07,368 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 21:39:09,945 INFO: 127.0.0.1 - - [05/May/2024 21:39:09] "POST /predict HTTP/1.1" 200 -
+2024-05-05 21:39:10,776 INFO: 127.0.0.1 - - [05/May/2024 21:39:10] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:39:10,776 INFO: 127.0.0.1 - - [05/May/2024 21:39:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:39:11,596 INFO: 127.0.0.1 - - [05/May/2024 21:39:11] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:39:17,239 INFO: 127.0.0.1 - - [05/May/2024 21:39:17] "GET / HTTP/1.1" 200 -
+2024-05-05 21:39:17,328 INFO: 127.0.0.1 - - [05/May/2024 21:39:17] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:39:17,332 INFO: 127.0.0.1 - - [05/May/2024 21:39:17] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 21:39:17,333 INFO: 127.0.0.1 - - [05/May/2024 21:39:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:39:17,362 INFO: 127.0.0.1 - - [05/May/2024 21:39:17] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 21:39:17,669 INFO: 127.0.0.1 - - [05/May/2024 21:39:17] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:39:19,980 INFO: 127.0.0.1 - - [05/May/2024 21:39:19] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:39:20,067 INFO: 127.0.0.1 - - [05/May/2024 21:39:20] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:39:20,069 INFO: 127.0.0.1 - - [05/May/2024 21:39:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:39:20,121 INFO: 127.0.0.1 - - [05/May/2024 21:39:20] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:39:31,481 INFO: 127.0.0.1 - - [05/May/2024 21:39:31] "POST /predict HTTP/1.1" 200 -
+2024-05-05 21:39:31,584 INFO: 127.0.0.1 - - [05/May/2024 21:39:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:39:31,586 INFO: 127.0.0.1 - - [05/May/2024 21:39:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:39:31,628 INFO: 127.0.0.1 - - [05/May/2024 21:39:31] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:39:56,308 INFO: 127.0.0.1 - - [05/May/2024 21:39:56] "GET / HTTP/1.1" 200 -
+2024-05-05 21:39:56,401 INFO: 127.0.0.1 - - [05/May/2024 21:39:56] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:39:56,403 INFO: 127.0.0.1 - - [05/May/2024 21:39:56] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 21:39:56,415 INFO: 127.0.0.1 - - [05/May/2024 21:39:56] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:39:56,499 INFO: 127.0.0.1 - - [05/May/2024 21:39:56] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:40:04,227 INFO: 127.0.0.1 - - [05/May/2024 21:40:04] "GET /news HTTP/1.1" 200 -
+2024-05-05 21:40:04,302 INFO: 127.0.0.1 - - [05/May/2024 21:40:04] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:40:04,325 INFO: 127.0.0.1 - - [05/May/2024 21:40:04] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:40:04,368 INFO: 127.0.0.1 - - [05/May/2024 21:40:04] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:45:12,015 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 21:45:13,171 INFO:  * Restarting with stat
+2024-05-05 21:45:17,296 WARNING:  * Debugger is active!
+2024-05-05 21:45:17,305 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 21:45:37,146 INFO: 127.0.0.1 - - [05/May/2024 21:45:37] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:45:40,537 INFO: 127.0.0.1 - - [05/May/2024 21:45:40] "GET /news HTTP/1.1" 200 -
+2024-05-05 21:45:40,735 INFO: 127.0.0.1 - - [05/May/2024 21:45:40] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:45:40,735 INFO: 127.0.0.1 - - [05/May/2024 21:45:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:45:40,830 INFO: 127.0.0.1 - - [05/May/2024 21:45:40] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:48:23,319 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-05 21:48:24,039 INFO:  * Restarting with stat
+2024-05-05 21:48:29,046 WARNING:  * Debugger is active!
+2024-05-05 21:48:29,049 INFO:  * Debugger PIN: 102-727-344
+2024-05-05 21:48:42,187 INFO: 127.0.0.1 - - [05/May/2024 21:48:42] "GET /news HTTP/1.1" 200 -
+2024-05-05 21:48:42,374 INFO: 127.0.0.1 - - [05/May/2024 21:48:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:48:42,374 INFO: 127.0.0.1 - - [05/May/2024 21:48:42] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:48:42,458 INFO: 127.0.0.1 - - [05/May/2024 21:48:42] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:53:42,449 INFO: 127.0.0.1 - - [05/May/2024 21:53:42] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:56:22,457 INFO: 127.0.0.1 - - [05/May/2024 21:56:22] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:56:22,559 INFO: 127.0.0.1 - - [05/May/2024 21:56:22] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:56:22,559 INFO: 127.0.0.1 - - [05/May/2024 21:56:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:56:22,661 INFO: 127.0.0.1 - - [05/May/2024 21:56:22] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:56:27,710 INFO: 127.0.0.1 - - [05/May/2024 21:56:27] "GET / HTTP/1.1" 200 -
+2024-05-05 21:56:27,811 INFO: 127.0.0.1 - - [05/May/2024 21:56:27] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:56:27,812 INFO: 127.0.0.1 - - [05/May/2024 21:56:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:56:27,823 INFO: 127.0.0.1 - - [05/May/2024 21:56:27] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-05 21:56:27,881 INFO: 127.0.0.1 - - [05/May/2024 21:56:27] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-05 21:56:27,949 INFO: 127.0.0.1 - - [05/May/2024 21:56:27] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:57:23,016 INFO: 127.0.0.1 - - [05/May/2024 21:57:23] "GET /predict HTTP/1.1" 200 -
+2024-05-05 21:57:23,116 INFO: 127.0.0.1 - - [05/May/2024 21:57:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-05 21:57:23,129 INFO: 127.0.0.1 - - [05/May/2024 21:57:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-05 21:57:23,177 INFO: 127.0.0.1 - - [05/May/2024 21:57:23] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:02:28,871 INFO: 127.0.0.1 - - [05/May/2024 22:02:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:07:28,716 INFO: 127.0.0.1 - - [05/May/2024 22:07:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:12:28,684 INFO: 127.0.0.1 - - [05/May/2024 22:12:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:17:28,361 INFO: 127.0.0.1 - - [05/May/2024 22:17:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:22:28,702 INFO: 127.0.0.1 - - [05/May/2024 22:22:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:27:28,708 INFO: 127.0.0.1 - - [05/May/2024 22:27:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:32:28,705 INFO: 127.0.0.1 - - [05/May/2024 22:32:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:37:28,705 INFO: 127.0.0.1 - - [05/May/2024 22:37:28] "GET /predict HTTP/1.1" 200 -
+2024-05-05 22:42:28,704 INFO: 127.0.0.1 - - [05/May/2024 22:42:28] "GET /predict HTTP/1.1" 200 -
+2024-05-06 18:07:02,132 INFO: 127.0.0.1 - - [06/May/2024 18:07:02] "GET /predict HTTP/1.1" 200 -
+2024-05-06 18:07:20,676 INFO: 127.0.0.1 - - [06/May/2024 18:07:20] "GET /predict HTTP/1.1" 200 -
+2024-05-06 18:12:20,686 INFO: 127.0.0.1 - - [06/May/2024 18:12:20] "GET /predict HTTP/1.1" 200 -
+2024-05-06 18:27:24,174 INFO: 127.0.0.1 - - [06/May/2024 18:27:24] "GET /predict HTTP/1.1" 200 -
