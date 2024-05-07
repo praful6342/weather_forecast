@@ -1,23 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Weather Prediction Algorithm</title>
   <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
 <body>
-  <div class="container">
-    <header>
-      <nav>
-        <ul>
-          <li><a href="/">Home</a></li>
-          <li><a href="/news">News</a></li>
-          <li><a href="/predict">Predict</a></li>
-          <li><a href="/algorithm">Algorithm</a></li>
-          <li><button id="dark-mode-toggle">Dark Mode</button></li>
+  <header class="header">
+    <div class="container">
+      <nav class="navbar">
+        <h1 class="navbar-brand">Weather Forecast App</h1>
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('show_news') }}">News</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('predict_weather') }}">Predict</a></li>
+          <li class="nav-item active"><a class="nav-link" href="{{ url_for('show_algorithm') }}">Algorithm</a></li>
+          <li class="nav-item"><button class="nav-link" id="dark-mode-toggle">Toggle Dark Mode</button></li>
         </ul>
       </nav>
-    </header>
+    </div>
+  </header>
 
+  <div class="container">
     <main>
       <h1>Weather Prediction Algorithm</h1>
 
@@ -46,10 +54,10 @@
 
       <p>The Enhanced K-Strange Points Clustering Algorithm is a simple and effective way to predict the weather. However, it is important to note that the accuracy of the predictions will depend on the quality of the data used to train the algorithm.</p>
     </main>
-
-    <footer>
-      <script src="{{ url_for('static', filename='scripts.js') }}"></script>
-    </footer>
   </div>
+
+  <footer>
+    <script src="{{ url_for('static', filename='scripts.js') }}"></script>
+  </footer>
 </body>
 </html>
