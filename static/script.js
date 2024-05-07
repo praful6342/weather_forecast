@@ -6,7 +6,7 @@ darkModeToggle.addEventListener('click', () => {
   body.classList.toggle('dark-mode');
 });
 
-// Fetch weather data (including news and alerts) on page load
+// Fetch weather data (including news) on page load
 window.onload = function () {
     fetchWeatherData();
     setInterval(fetchWeatherData, 300000); // Update weather data every 5 minutes
@@ -60,25 +60,6 @@ function fetchWeatherData() {
           // You can also update other news elements like the link
         } else {
           document.querySelector('.news-title').textContent = 'No news available';
-        }
-
-        // Update weather alerts if available
-        if (data.weather_alerts) {
-          const weatherAlertsContainer = document.querySelector('.weather-alerts');
-          weatherAlertsContainer.innerHTML = ''; // Clear previous alerts
-
-          data.weather_alerts.forEach(alert => {
-            const alertElement = document.createElement('div');
-            alertElement.classList.add('weather-alert');
-            alertElement.innerHTML = `
-              <h3>${alert.title}</h3>
-              <p>${alert.description}</p>
-            `;
-            weatherAlertsContainer.appendChild(alertElement);
-          });
-        } else {
-          const weatherAlertsContainer = document.querySelector('.weather-alerts');
-          weatherAlertsContainer.innerHTML = '<p>No weather alerts available.</p>';
         }
       })
       .catch(error => {

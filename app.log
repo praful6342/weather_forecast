@@ -1843,3 +1843,46 @@
 2024-05-07 12:06:36,466 INFO: 127.0.0.1 - - [07/May/2024 12:06:36] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
 2024-05-07 12:06:36,749 INFO: 127.0.0.1 - - [07/May/2024 12:06:36] "GET /predict HTTP/1.1" 200 -
 2024-05-07 12:06:36,765 INFO: 127.0.0.1 - - [07/May/2024 12:06:36] "GET /algorithm HTTP/1.1" 200 -
+2024-05-07 12:08:25,674 INFO: 127.0.0.1 - - [07/May/2024 12:08:25] "GET / HTTP/1.1" 200 -
+2024-05-07 12:08:25,847 INFO: 127.0.0.1 - - [07/May/2024 12:08:25] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:08:25,847 INFO: 127.0.0.1 - - [07/May/2024 12:08:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-07 12:08:25,941 INFO: 127.0.0.1 - - [07/May/2024 12:08:25] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-07 12:08:25,980 INFO: 127.0.0.1 - - [07/May/2024 12:08:25] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-07 12:08:33,561 INFO: 127.0.0.1 - - [07/May/2024 12:08:33] "GET /news HTTP/1.1" 200 -
+2024-05-07 12:08:33,749 INFO: 127.0.0.1 - - [07/May/2024 12:08:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:08:33,796 INFO: 127.0.0.1 - - [07/May/2024 12:08:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-07 12:08:33,937 INFO: 127.0.0.1 - - [07/May/2024 12:08:33] "GET /algorithm HTTP/1.1" 200 -
+2024-05-07 12:08:33,944 INFO: 127.0.0.1 - - [07/May/2024 12:08:33] "GET /predict HTTP/1.1" 200 -
+2024-05-07 12:11:23,542 INFO: 127.0.0.1 - - [07/May/2024 12:11:23] "GET /news HTTP/1.1" 200 -
+2024-05-07 12:11:23,762 INFO: 127.0.0.1 - - [07/May/2024 12:11:23] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:11:23,935 INFO: 127.0.0.1 - - [07/May/2024 12:11:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-07 12:11:28,716 INFO: 127.0.0.1 - - [07/May/2024 12:11:28] "GET / HTTP/1.1" 200 -
+2024-05-07 12:11:28,869 INFO: 127.0.0.1 - - [07/May/2024 12:11:28] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:11:28,869 INFO: 127.0.0.1 - - [07/May/2024 12:11:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-07 12:11:28,916 INFO: 127.0.0.1 - - [07/May/2024 12:11:28] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-07 12:11:28,947 INFO: 127.0.0.1 - - [07/May/2024 12:11:28] "[36mGET /static/weather-icons/sunny.png HTTP/1.1[0m" 304 -
+2024-05-07 12:11:31,587 INFO: 127.0.0.1 - - [07/May/2024 12:11:31] "GET /news HTTP/1.1" 200 -
+2024-05-07 12:11:31,721 INFO: 127.0.0.1 - - [07/May/2024 12:11:31] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:11:31,730 INFO: 127.0.0.1 - - [07/May/2024 12:11:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-07 12:11:33,709 INFO: 127.0.0.1 - - [07/May/2024 12:11:33] "GET /predict HTTP/1.1" 200 -
+2024-05-07 12:11:33,867 INFO: 127.0.0.1 - - [07/May/2024 12:11:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:11:33,914 INFO: 127.0.0.1 - - [07/May/2024 12:11:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 -
+2024-05-07 12:11:40,042 INFO: 127.0.0.1 - - [07/May/2024 12:11:40] "GET /algorithm HTTP/1.1" 200 -
+2024-05-07 12:11:40,163 INFO: 127.0.0.1 - - [07/May/2024 12:11:40] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:11:40,163 INFO: 127.0.0.1 - - [07/May/2024 12:11:40] "[33mGET /static/scripts.js HTTP/1.1[0m" 404 -
+2024-05-07 12:15:33,146 ERROR: Error: Could not build url for endpoint 'search'. Did you mean 'static' instead?
+2024-05-07 12:15:33,146 INFO: 127.0.0.1 - - [07/May/2024 12:15:33] "GET / HTTP/1.1" 200 -
+2024-05-07 12:15:33,288 INFO: 127.0.0.1 - - [07/May/2024 12:15:33] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:33:53,914 ERROR: Error: Could not build url for endpoint 'search'. Did you mean 'static' instead?
+2024-05-07 12:33:53,916 INFO: 127.0.0.1 - - [07/May/2024 12:33:53] "GET / HTTP/1.1" 200 -
+2024-05-07 12:33:54,014 INFO: 127.0.0.1 - - [07/May/2024 12:33:54] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:33:59,456 ERROR: Error: Could not build url for endpoint 'search'. Did you mean 'static' instead?
+2024-05-07 12:33:59,457 INFO: 127.0.0.1 - - [07/May/2024 12:33:59] "GET / HTTP/1.1" 200 -
+2024-05-07 12:33:59,527 INFO: 127.0.0.1 - - [07/May/2024 12:33:59] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:39:44,029 INFO: 127.0.0.1 - - [07/May/2024 12:39:44] "GET / HTTP/1.1" 200 -
+2024-05-07 12:39:44,205 INFO: 127.0.0.1 - - [07/May/2024 12:39:44] "[36mGET /static/styles.css HTTP/1.1[0m" 304 -
+2024-05-07 12:39:44,219 INFO: 127.0.0.1 - - [07/May/2024 12:39:44] "GET /static/script.js HTTP/1.1" 200 -
+2024-05-07 12:39:44,266 INFO: 127.0.0.1 - - [07/May/2024 12:39:44] "[36mGET /static/weather-icons/cloudy.png HTTP/1.1[0m" 304 -
+2024-05-07 12:39:44,348 INFO: 127.0.0.1 - - [07/May/2024 12:39:44] "[33mGET /static/{{%20url_for('static',%20filename='images/particles.png')%20}} HTTP/1.1[0m" 404 -
+2024-05-07 12:42:48,587 INFO:  * Detected change in 'C:\\Praful\\Weather_Forecasting\\Weather_Forecasting_Virtual_Environment\\src\\temp\\app.py', reloading
+2024-05-07 12:42:50,322 INFO:  * Restarting with stat

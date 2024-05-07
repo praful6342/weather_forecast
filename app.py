@@ -65,11 +65,6 @@ def predict_weather():
         predicted_weather = perform_weather_prediction(form_data)
     return render_template("predict.html", predicted_weather=predicted_weather)
 
-@app.route("/weather_alerts")
-def weather_alerts():
-    alert_data = get_weather_alerts()  # Function to fetch weather alerts from the API
-    return render_template("weather_alerts.html", alert_data=alert_data)
-
 @app.route("/algorithm")
 def show_algorithm():
     return render_template("algorithm.html")
@@ -100,24 +95,6 @@ def get_current_weather(lat, lon, api_key):
         return current_weather_data
     except requests.exceptions.RequestException as e:
         logging.error(f"Error retrieving weather data: {e}")
-        return None
-    
-def get_weather_alerts():
-    # Make API request to fetch weather alerts
-    alert_api_url = 'YOUR_WEATHER_ALERT_API_URL'
-    api_key = 'YOUR_WEATHER_ALERT_API_KEY'
-    
-    params = {
-        'key': api_key,
-        'location': 'Bangalore',  # Example location
-    }
-
-    response = requests.get(alert_api_url, params=params)
-    if response.status_code == 200:
-        alert_data = response.json()
-        return alert_data
-    else:
-        logging.error(f"Error fetching weather alerts: {response.text}")
         return None
 
 def parse_weather_data(data):

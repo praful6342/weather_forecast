@@ -9,7 +9,8 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
-<body class=""> <header class="header">
+<body>
+  <header class="header">
     <div class="container">
       <nav class="navbar">
         <h1 class="navbar-brand">Weather Forecast App</h1>
@@ -24,36 +25,27 @@
     </div>
   </header>
 
-    <div class="container">
-        <main>
-            <div class="weather-display">
-                <div class="weather-card">
-                    <img src="{{ url_for('static', filename='weather-icons/' + weather_icon) }}" alt="Weather Icon" class="weather-icon weather-icon-animate">
-                    <h2 class="weather-description">{{ weather_data.description }}</h2>
-                    <p class="temperature">{{ weather_data.temperature|float|round(1) }}°C</p>
-                    <div class="weather-details">
-                        <p class="humidity">Humidity: {{ weather_data.humidity }}%</p>
-                        <p class="wind-speed">Wind Speed: {{ weather_data.wind_speed }} m/s</p>
-                        <p class="pressure">Pressure: {{ weather_data.pressure }} hPa</p>
-                    </div>
-                </div>
-                <!-- Weather Alerts Section -->
-                <div class="weather-alerts">
-                    <h2>Weather Alerts</h2>
-                    <ul>
-                        {% for alert in weather_alerts %}
-                            <li>{{ alert.title }} - {{ alert.description }}</li>
-                        {% endfor %}
-                    </ul>
-                </div>
-                <div class="weather-background">
-                    <div class="weather-gradient"></div>
-                    <div class="weather-particles"></div>
-                </div>
-            </div>
-        </main>
-    </div>
+  <div class="container">
+    <main>
+      <div class="weather-display">
+        <div class="weather-card">
+          <img src="{{ url_for('static', filename='weather-icons/' + weather_icon) }}" alt="Weather Icon" class="weather-icon weather-icon-animate">
+          <h2 class="weather-description">{{ weather_data.description }}</h2>
+          <p class="temperature">{{ weather_data.temperature|float|round(1) }}°C</p>
+          <div class="weather-details">
+            <p class="humidity">Humidity: {{ weather_data.humidity }}%</p>
+            <p class="wind-speed">Wind Speed: {{ weather_data.wind_speed }} m/s</p>
+            <p class="pressure">Pressure: {{ weather_data.pressure }} hPa</p>
+          </div>
+        </div>
+        <div class="weather-background">
+          <div class="weather-gradient"></div>
+          <div class="weather-particles"></div>
+        </div>
+      </div>
+    </main>
+  </div>
 
-    <script src="{{ url_for('static', filename='script.js') }}"></script>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
 </body>
 </html>
