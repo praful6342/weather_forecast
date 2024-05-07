@@ -1,29 +1,28 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Weather Forecast App</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Weather Forecast App</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 </head>
-<body>
-    <header class="header">
-        <div class="container">
-            <nav class="navbar">
-                <h1 class="navbar-brand">Weather Forecast App</h1>
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ url_for('show_news') }}">News</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ url_for('predict_weather') }}">Predict</a></li>
-                    <li class="nav-item"><a class="nav-link" href="{{ url_for('show_algorithm') }}">Algorithm</a></li>
-                    <li class="nav-item"><button class="nav-link" id="dark-mode-toggle">Toggle Dark Mode</button></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+<body class=""> <header class="header">
+    <div class="container">
+      <nav class="navbar">
+        <h1 class="navbar-brand">Weather Forecast App</h1>
+        <ul class="navbar-nav">
+          <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('show_news') }}">News</a></li>
+          <li class="nav-item"><a class="nav-link" href="{{ url_for('predict_weather') }}">Predict</a></li>
+          <li class="nav-item active"><a class="nav-link" href="{{ url_for('show_algorithm') }}">Algorithm</a></li>
+          <li class="nav-item"><button class="nav-link" id="dark-mode-toggle">Toggle Dark Mode</button></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
 
     <div class="container">
         <main>
