@@ -309,6 +309,40 @@ body {
     color: #0056b3;
 }
 
+/* Algorithm Page */
+.algorithm-content {
+    margin-top: 50px;
+}
+
+.algorithm-description {
+    font-size: 1.8em;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: #333;
+}
+
+.algorithm-steps {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.algorithm-step {
+    margin-bottom: 20px;
+}
+
+.algorithm-step-number {
+    font-size: 1.5em;
+    font-weight: 700;
+    margin-right: 20px;
+    color: #007bff;
+}
+
+.algorithm-step-description {
+    font-size: 1.2em;
+    color: #333;
+}
+
 /* Dark Mode */
 body.dark-mode {
     background-color: #333;
@@ -353,6 +387,18 @@ body.dark-mode {
 }
 
 .dark-mode .news-description {
+    color: #f5f5f5;
+}
+
+.dark-mode .algorithm-description {
+    color: #f5f5f5;
+}
+
+.dark-mode .algorithm-step-number {
+    color: #00b4d8;
+}
+
+.dark-mode .algorithm-step-description {
     color: #f5f5f5;
 }
 
@@ -411,4 +457,30 @@ body.dark-mode {
     .news-description {
         font-size: 1em;
     }
+
+    .algorithm-description {
+        font-size: 1.5em;
+    }
+
+    .algorithm-step-number {
+        font-size: 1.2em;
+    }
+
+    .algorithm-step-description {
+        font-size: 1em;
+    }
+}
+
+/* Dark Mode Toggle Button */
+#dark-mode-toggle {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 1.2em;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#dark-mode-toggle:hover {
+    color: #ccc;
 }
